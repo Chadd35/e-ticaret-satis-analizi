@@ -1,0 +1,1001 @@
+Tarih,UrunID,UrunAdi,Kategori,Fiyat,Adet,ToplamFiyat,MusteriID,Sehir,Ulke
+2023-01-01,106,Kaban,Giyim,2265,3,6795,M56,Antalya,Türkiye
+2023-01-03,110,Televizyon,Elektronik,21189,2,42378,M29,İstanbul,Türkiye
+2023-01-03,103,Tablet,Elektronik,4760,6,28560,M57,Ankara,Türkiye
+2023-01-03,101,Laptop,Elektronik,21806,3,65418,M31,Antalya,Türkiye
+2023-01-03,106,Kaban,Giyim,2240,8,17920,M49,İzmir,Türkiye
+2023-01-04,107,Kitap,Kitap,349,1,349,M11,İstanbul,Türkiye
+2023-01-04,108,Çalışma Masası,Ev & Yaşam,1424,4,5696,M59,Antalya,Türkiye
+2023-01-04,105,Pantolon,Giyim,971,8,7768,M47,İstanbul,Türkiye
+2023-01-04,103,Tablet,Elektronik,6722,6,40332,M37,Antalya,Türkiye
+2023-01-06,109,Koltuk,Ev & Yaşam,7521,4,30084,M47,Ankara,Türkiye
+2023-01-06,110,Televizyon,Elektronik,18022,6,108132,M21,Bursa,Türkiye
+2023-01-06,106,Kaban,Giyim,1664,9,14976,M89,Bursa,Türkiye
+2023-01-07,103,Tablet,Elektronik,8742,7,61194,M44,İstanbul,Türkiye
+2023-01-08,107,Kitap,Kitap,198,2,396,M39,Antalya,Türkiye
+2023-01-08,110,Televizyon,Elektronik,10208,2,20416,M76,Bursa,Türkiye
+2023-01-08,103,Tablet,Elektronik,4758,8,38064,M88,Antalya,Türkiye
+2023-01-08,109,Koltuk,Ev & Yaşam,8305,3,24915,M52,Ankara,Türkiye
+2023-01-08,108,Çalışma Masası,Ev & Yaşam,3483,10,34830,M35,İzmir,Türkiye
+2023-01-08,104,T-Shirt,Giyim,151,5,755,M83,İzmir,Türkiye
+2023-01-08,106,Kaban,Giyim,1792,5,8960,M37,Antalya,Türkiye
+2023-01-08,105,Pantolon,Giyim,743,9,6687,M51,Ankara,Türkiye
+2023-01-09,108,Çalışma Masası,Ev & Yaşam,2112,5,10560,M65,İstanbul,Türkiye
+2023-01-09,110,Televizyon,Elektronik,15037,6,90222,M87,İzmir,Türkiye
+2023-01-09,110,Televizyon,Elektronik,22185,7,155295,M71,İzmir,Türkiye
+2023-01-09,108,Çalışma Masası,Ev & Yaşam,3546,9,31914,M48,İstanbul,Türkiye
+2023-01-09,109,Koltuk,Ev & Yaşam,7618,5,38090,M5,Bursa,Türkiye
+2023-01-09,110,Televizyon,Elektronik,16139,7,112973,M90,Antalya,Türkiye
+2023-01-10,101,Laptop,Elektronik,13306,3,39918,M66,İzmir,Türkiye
+2023-01-10,107,Kitap,Kitap,215,8,1720,M93,İstanbul,Türkiye
+2023-01-10,106,Kaban,Giyim,658,6,3948,M86,Antalya,Türkiye
+2023-01-10,104,T-Shirt,Giyim,195,8,1560,M25,İstanbul,Türkiye
+2023-01-10,110,Televizyon,Elektronik,23711,9,213399,M24,Antalya,Türkiye
+2023-01-11,109,Koltuk,Ev & Yaşam,8521,9,76689,M6,Bursa,Türkiye
+2023-01-11,109,Koltuk,Ev & Yaşam,6926,6,41556,M77,İzmir,Türkiye
+2023-01-11,103,Tablet,Elektronik,10284,5,51420,M8,İstanbul,Türkiye
+2023-01-12,104,T-Shirt,Giyim,428,7,2996,M3,İzmir,Türkiye
+2023-01-13,106,Kaban,Giyim,1707,10,17070,M43,Bursa,Türkiye
+2023-01-13,107,Kitap,Kitap,177,3,531,M75,Ankara,Türkiye
+2023-01-13,105,Pantolon,Giyim,544,5,2720,M6,Ankara,Türkiye
+2023-01-13,109,Koltuk,Ev & Yaşam,7677,2,15354,M58,İzmir,Türkiye
+2023-01-13,102,Telefon,Elektronik,17089,5,85445,M79,Ankara,Türkiye
+2023-01-13,110,Televizyon,Elektronik,17605,4,70420,M28,Antalya,Türkiye
+2023-01-14,109,Koltuk,Ev & Yaşam,4783,3,14349,M31,İzmir,Türkiye
+2023-01-14,105,Pantolon,Giyim,811,7,5677,M11,İzmir,Türkiye
+2023-01-15,106,Kaban,Giyim,2755,10,27550,M77,Ankara,Türkiye
+2023-01-15,105,Pantolon,Giyim,342,4,1368,M7,Antalya,Türkiye
+2023-01-15,101,Laptop,Elektronik,10407,10,104070,M79,Ankara,Türkiye
+2023-01-15,107,Kitap,Kitap,423,1,423,M96,İstanbul,Türkiye
+2023-01-15,106,Kaban,Giyim,1315,9,11835,M48,Antalya,Türkiye
+2023-01-15,104,T-Shirt,Giyim,132,3,396,M7,Bursa,Türkiye
+2023-01-15,109,Koltuk,Ev & Yaşam,4911,4,19644,M69,Ankara,Türkiye
+2023-01-16,106,Kaban,Giyim,509,6,3054,M91,Bursa,Türkiye
+2023-01-16,104,T-Shirt,Giyim,300,9,2700,M34,Ankara,Türkiye
+2023-01-17,105,Pantolon,Giyim,791,5,3955,M73,Ankara,Türkiye
+2023-01-17,108,Çalışma Masası,Ev & Yaşam,3605,4,14420,M92,Bursa,Türkiye
+2023-01-17,104,T-Shirt,Giyim,104,6,624,M60,İstanbul,Türkiye
+2023-01-18,109,Koltuk,Ev & Yaşam,5777,1,5777,M69,İzmir,Türkiye
+2023-01-18,106,Kaban,Giyim,2824,2,5648,M23,Ankara,Türkiye
+2023-01-18,106,Kaban,Giyim,2719,1,2719,M17,Bursa,Türkiye
+2023-01-19,103,Tablet,Elektronik,10336,8,82688,M35,Antalya,Türkiye
+2023-01-19,109,Koltuk,Ev & Yaşam,3007,2,6014,M51,Bursa,Türkiye
+2023-01-19,108,Çalışma Masası,Ev & Yaşam,4522,8,36176,M44,Ankara,Türkiye
+2023-01-20,109,Koltuk,Ev & Yaşam,5350,9,48150,M86,Ankara,Türkiye
+2023-01-20,102,Telefon,Elektronik,15226,4,60904,M17,Ankara,Türkiye
+2023-01-20,101,Laptop,Elektronik,15744,10,157440,M77,İzmir,Türkiye
+2023-01-20,106,Kaban,Giyim,1750,4,7000,M5,Bursa,Türkiye
+2023-01-20,108,Çalışma Masası,Ev & Yaşam,1104,3,3312,M83,Antalya,Türkiye
+2023-01-21,107,Kitap,Kitap,97,5,485,M64,Antalya,Türkiye
+2023-01-21,108,Çalışma Masası,Ev & Yaşam,2359,3,7077,M18,Antalya,Türkiye
+2023-01-21,105,Pantolon,Giyim,324,4,1296,M24,İzmir,Türkiye
+2023-01-22,105,Pantolon,Giyim,919,8,7352,M59,İzmir,Türkiye
+2023-01-22,105,Pantolon,Giyim,943,8,7544,M96,Bursa,Türkiye
+2023-01-22,102,Telefon,Elektronik,7034,7,49238,M21,Antalya,Türkiye
+2023-01-23,106,Kaban,Giyim,2451,3,7353,M80,Antalya,Türkiye
+2023-01-23,109,Koltuk,Ev & Yaşam,8969,7,62783,M13,Bursa,Türkiye
+2023-01-25,110,Televizyon,Elektronik,13881,9,124929,M61,Bursa,Türkiye
+2023-01-25,103,Tablet,Elektronik,13050,8,104400,M44,Ankara,Türkiye
+2023-01-25,104,T-Shirt,Giyim,361,1,361,M45,İstanbul,Türkiye
+2023-01-26,103,Tablet,Elektronik,6611,1,6611,M86,Antalya,Türkiye
+2023-01-26,109,Koltuk,Ev & Yaşam,4647,4,18588,M87,Antalya,Türkiye
+2023-01-26,107,Kitap,Kitap,137,2,274,M34,Antalya,Türkiye
+2023-01-26,108,Çalışma Masası,Ev & Yaşam,3208,8,25664,M51,Bursa,Türkiye
+2023-01-27,105,Pantolon,Giyim,599,2,1198,M64,İstanbul,Türkiye
+2023-01-27,107,Kitap,Kitap,430,6,2580,M3,Bursa,Türkiye
+2023-01-27,107,Kitap,Kitap,385,8,3080,M99,İstanbul,Türkiye
+2023-01-28,101,Laptop,Elektronik,19126,1,19126,M4,Bursa,Türkiye
+2023-01-28,109,Koltuk,Ev & Yaşam,2549,7,17843,M75,Antalya,Türkiye
+2023-01-29,108,Çalışma Masası,Ev & Yaşam,1672,9,15048,M14,Antalya,Türkiye
+2023-01-29,103,Tablet,Elektronik,12639,5,63195,M100,İstanbul,Türkiye
+2023-01-29,107,Kitap,Kitap,238,1,238,M65,Ankara,Türkiye
+2023-01-30,109,Koltuk,Ev & Yaşam,2972,5,14860,M22,Bursa,Türkiye
+2023-01-31,106,Kaban,Giyim,2433,7,17031,M28,Bursa,Türkiye
+2023-01-31,105,Pantolon,Giyim,819,10,8190,M71,İstanbul,Türkiye
+2023-01-31,103,Tablet,Elektronik,6166,8,49328,M43,Bursa,Türkiye
+2023-01-31,106,Kaban,Giyim,1097,4,4388,M33,İstanbul,Türkiye
+2023-01-31,103,Tablet,Elektronik,8503,4,34012,M17,Antalya,Türkiye
+2023-02-01,108,Çalışma Masası,Ev & Yaşam,3440,7,24080,M42,Bursa,Türkiye
+2023-02-02,102,Telefon,Elektronik,9277,4,37108,M38,Ankara,Türkiye
+2023-02-02,108,Çalışma Masası,Ev & Yaşam,708,6,4248,M30,İstanbul,Türkiye
+2023-02-02,104,T-Shirt,Giyim,412,10,4120,M34,Ankara,Türkiye
+2023-02-02,110,Televizyon,Elektronik,5513,6,33078,M30,Ankara,Türkiye
+2023-02-02,110,Televizyon,Elektronik,14705,7,102935,M88,Antalya,Türkiye
+2023-02-02,110,Televizyon,Elektronik,15666,8,125328,M54,Bursa,Türkiye
+2023-02-03,102,Telefon,Elektronik,7021,4,28084,M98,Bursa,Türkiye
+2023-02-04,101,Laptop,Elektronik,19277,5,96385,M31,Antalya,Türkiye
+2023-02-04,109,Koltuk,Ev & Yaşam,6859,2,13718,M12,Bursa,Türkiye
+2023-02-05,103,Tablet,Elektronik,7163,2,14326,M51,İzmir,Türkiye
+2023-02-05,108,Çalışma Masası,Ev & Yaşam,1499,5,7495,M77,İzmir,Türkiye
+2023-02-05,101,Laptop,Elektronik,15950,7,111650,M85,Bursa,Türkiye
+2023-02-06,104,T-Shirt,Giyim,367,3,1101,M55,İstanbul,Türkiye
+2023-02-06,101,Laptop,Elektronik,14504,2,29008,M44,İstanbul,Türkiye
+2023-02-06,105,Pantolon,Giyim,787,5,3935,M94,İzmir,Türkiye
+2023-02-06,110,Televizyon,Elektronik,9859,9,88731,M58,İstanbul,Türkiye
+2023-02-06,109,Koltuk,Ev & Yaşam,4558,6,27348,M22,Ankara,Türkiye
+2023-02-07,105,Pantolon,Giyim,713,2,1426,M21,İstanbul,Türkiye
+2023-02-07,109,Koltuk,Ev & Yaşam,5139,1,5139,M85,Bursa,Türkiye
+2023-02-07,103,Tablet,Elektronik,10595,4,42380,M74,İstanbul,Türkiye
+2023-02-09,107,Kitap,Kitap,170,5,850,M29,Bursa,Türkiye
+2023-02-10,101,Laptop,Elektronik,25380,4,101520,M72,İstanbul,Türkiye
+2023-02-10,103,Tablet,Elektronik,12395,10,123950,M98,Antalya,Türkiye
+2023-02-10,109,Koltuk,Ev & Yaşam,6244,5,31220,M75,İstanbul,Türkiye
+2023-02-11,102,Telefon,Elektronik,12552,5,62760,M91,Antalya,Türkiye
+2023-02-11,109,Koltuk,Ev & Yaşam,1276,5,6380,M16,Antalya,Türkiye
+2023-02-13,102,Telefon,Elektronik,14991,10,149910,M90,Bursa,Türkiye
+2023-02-13,107,Kitap,Kitap,478,7,3346,M22,Antalya,Türkiye
+2023-02-13,106,Kaban,Giyim,2317,10,23170,M2,Ankara,Türkiye
+2023-02-14,103,Tablet,Elektronik,6912,9,62208,M63,Bursa,Türkiye
+2023-02-14,105,Pantolon,Giyim,835,6,5010,M8,Ankara,Türkiye
+2023-02-14,109,Koltuk,Ev & Yaşam,2208,2,4416,M22,Bursa,Türkiye
+2023-02-14,110,Televizyon,Elektronik,17935,6,107610,M79,İstanbul,Türkiye
+2023-02-15,109,Koltuk,Ev & Yaşam,8958,4,35832,M57,Antalya,Türkiye
+2023-02-15,102,Telefon,Elektronik,11008,5,55040,M29,İzmir,Türkiye
+2023-02-16,108,Çalışma Masası,Ev & Yaşam,1093,5,5465,M77,İstanbul,Türkiye
+2023-02-18,101,Laptop,Elektronik,23212,7,162484,M80,Ankara,Türkiye
+2023-02-18,101,Laptop,Elektronik,9150,3,27450,M3,İzmir,Türkiye
+2023-02-19,106,Kaban,Giyim,908,4,3632,M90,Ankara,Türkiye
+2023-02-20,106,Kaban,Giyim,727,5,3635,M54,Antalya,Türkiye
+2023-02-20,103,Tablet,Elektronik,10959,8,87672,M92,Bursa,Türkiye
+2023-02-20,109,Koltuk,Ev & Yaşam,7658,5,38290,M60,Ankara,Türkiye
+2023-02-20,102,Telefon,Elektronik,15344,3,46032,M57,Bursa,Türkiye
+2023-02-21,105,Pantolon,Giyim,914,8,7312,M94,Ankara,Türkiye
+2023-02-21,101,Laptop,Elektronik,21242,10,212420,M99,İzmir,Türkiye
+2023-02-21,109,Koltuk,Ev & Yaşam,3039,6,18234,M33,Antalya,Türkiye
+2023-02-21,101,Laptop,Elektronik,9829,10,98290,M32,İzmir,Türkiye
+2023-02-22,109,Koltuk,Ev & Yaşam,2321,3,6963,M17,İstanbul,Türkiye
+2023-02-22,106,Kaban,Giyim,1229,6,7374,M100,İstanbul,Türkiye
+2023-02-23,108,Çalışma Masası,Ev & Yaşam,3292,10,32920,M36,Antalya,Türkiye
+2023-02-23,108,Çalışma Masası,Ev & Yaşam,4227,4,16908,M1,Antalya,Türkiye
+2023-02-23,101,Laptop,Elektronik,18710,5,93550,M27,Ankara,Türkiye
+2023-02-23,106,Kaban,Giyim,1502,7,10514,M78,İzmir,Türkiye
+2023-02-24,101,Laptop,Elektronik,27938,3,83814,M28,Ankara,Türkiye
+2023-02-24,110,Televizyon,Elektronik,5355,7,37485,M44,İstanbul,Türkiye
+2023-02-25,101,Laptop,Elektronik,28801,9,259209,M40,İstanbul,Türkiye
+2023-02-25,101,Laptop,Elektronik,27666,2,55332,M17,Bursa,Türkiye
+2023-02-25,104,T-Shirt,Giyim,197,2,394,M10,Antalya,Türkiye
+2023-02-25,105,Pantolon,Giyim,402,4,1608,M2,Ankara,Türkiye
+2023-02-26,102,Telefon,Elektronik,14298,2,28596,M5,Ankara,Türkiye
+2023-02-26,106,Kaban,Giyim,1113,6,6678,M15,İzmir,Türkiye
+2023-02-26,104,T-Shirt,Giyim,317,1,317,M16,İzmir,Türkiye
+2023-02-27,108,Çalışma Masası,Ev & Yaşam,1959,8,15672,M25,Antalya,Türkiye
+2023-02-27,104,T-Shirt,Giyim,122,6,732,M81,İzmir,Türkiye
+2023-02-27,110,Televizyon,Elektronik,10650,2,21300,M1,İzmir,Türkiye
+2023-02-27,110,Televizyon,Elektronik,15096,8,120768,M93,Ankara,Türkiye
+2023-02-28,105,Pantolon,Giyim,693,6,4158,M65,İstanbul,Türkiye
+2023-02-28,108,Çalışma Masası,Ev & Yaşam,2221,2,4442,M57,İzmir,Türkiye
+2023-03-01,101,Laptop,Elektronik,18783,5,93915,M29,İzmir,Türkiye
+2023-03-01,105,Pantolon,Giyim,953,3,2859,M47,Ankara,Türkiye
+2023-03-01,101,Laptop,Elektronik,19935,6,119610,M27,Ankara,Türkiye
+2023-03-01,107,Kitap,Kitap,269,1,269,M99,İzmir,Türkiye
+2023-03-01,109,Koltuk,Ev & Yaşam,6824,4,27296,M28,Antalya,Türkiye
+2023-03-02,108,Çalışma Masası,Ev & Yaşam,1100,2,2200,M95,Bursa,Türkiye
+2023-03-03,108,Çalışma Masası,Ev & Yaşam,1331,4,5324,M66,Ankara,Türkiye
+2023-03-03,107,Kitap,Kitap,421,8,3368,M48,Bursa,Türkiye
+2023-03-03,108,Çalışma Masası,Ev & Yaşam,1490,6,8940,M19,Ankara,Türkiye
+2023-03-03,109,Koltuk,Ev & Yaşam,2361,3,7083,M47,Ankara,Türkiye
+2023-03-04,104,T-Shirt,Giyim,472,9,4248,M30,İzmir,Türkiye
+2023-03-04,107,Kitap,Kitap,255,4,1020,M53,İzmir,Türkiye
+2023-03-04,109,Koltuk,Ev & Yaşam,1009,5,5045,M57,Bursa,Türkiye
+2023-03-05,109,Koltuk,Ev & Yaşam,9865,4,39460,M22,İstanbul,Türkiye
+2023-03-05,102,Telefon,Elektronik,9740,6,58440,M17,Bursa,Türkiye
+2023-03-05,102,Telefon,Elektronik,11356,9,102204,M83,Ankara,Türkiye
+2023-03-06,109,Koltuk,Ev & Yaşam,6301,1,6301,M56,İzmir,Türkiye
+2023-03-06,107,Kitap,Kitap,141,3,423,M97,Ankara,Türkiye
+2023-03-07,104,T-Shirt,Giyim,452,2,904,M48,Ankara,Türkiye
+2023-03-07,107,Kitap,Kitap,374,10,3740,M12,Bursa,Türkiye
+2023-03-08,102,Telefon,Elektronik,16775,10,167750,M49,İstanbul,Türkiye
+2023-03-08,108,Çalışma Masası,Ev & Yaşam,794,9,7146,M79,Antalya,Türkiye
+2023-03-08,110,Televizyon,Elektronik,23324,7,163268,M37,Ankara,Türkiye
+2023-03-08,101,Laptop,Elektronik,19254,2,38508,M30,Antalya,Türkiye
+2023-03-08,106,Kaban,Giyim,1759,10,17590,M65,Antalya,Türkiye
+2023-03-09,102,Telefon,Elektronik,9969,7,69783,M53,İstanbul,Türkiye
+2023-03-09,109,Koltuk,Ev & Yaşam,7979,9,71811,M63,Bursa,Türkiye
+2023-03-10,108,Çalışma Masası,Ev & Yaşam,4320,8,34560,M28,Ankara,Türkiye
+2023-03-10,107,Kitap,Kitap,162,9,1458,M3,İzmir,Türkiye
+2023-03-10,105,Pantolon,Giyim,527,9,4743,M88,İstanbul,Türkiye
+2023-03-11,104,T-Shirt,Giyim,333,6,1998,M92,Ankara,Türkiye
+2023-03-11,101,Laptop,Elektronik,22832,8,182656,M6,Bursa,Türkiye
+2023-03-11,108,Çalışma Masası,Ev & Yaşam,3813,7,26691,M15,Ankara,Türkiye
+2023-03-11,104,T-Shirt,Giyim,480,7,3360,M37,Antalya,Türkiye
+2023-03-12,107,Kitap,Kitap,403,10,4030,M41,Antalya,Türkiye
+2023-03-13,104,T-Shirt,Giyim,463,6,2778,M67,Antalya,Türkiye
+2023-03-13,110,Televizyon,Elektronik,10600,9,95400,M34,Bursa,Türkiye
+2023-03-13,106,Kaban,Giyim,2719,9,24471,M81,İzmir,Türkiye
+2023-03-13,108,Çalışma Masası,Ev & Yaşam,1915,10,19150,M85,Bursa,Türkiye
+2023-03-13,106,Kaban,Giyim,2723,4,10892,M29,İzmir,Türkiye
+2023-03-13,102,Telefon,Elektronik,11946,8,95568,M22,İzmir,Türkiye
+2023-03-13,101,Laptop,Elektronik,28007,6,168042,M22,İzmir,Türkiye
+2023-03-14,109,Koltuk,Ev & Yaşam,2856,5,14280,M42,İstanbul,Türkiye
+2023-03-14,101,Laptop,Elektronik,28694,7,200858,M68,İzmir,Türkiye
+2023-03-14,102,Telefon,Elektronik,8690,10,86900,M95,İstanbul,Türkiye
+2023-03-15,106,Kaban,Giyim,500,2,1000,M49,İzmir,Türkiye
+2023-03-15,104,T-Shirt,Giyim,368,3,1104,M58,Ankara,Türkiye
+2023-03-16,101,Laptop,Elektronik,28203,2,56406,M79,Ankara,Türkiye
+2023-03-16,103,Tablet,Elektronik,3169,8,25352,M99,İzmir,Türkiye
+2023-03-16,108,Çalışma Masası,Ev & Yaşam,3516,6,21096,M76,Bursa,Türkiye
+2023-03-16,105,Pantolon,Giyim,441,4,1764,M34,Bursa,Türkiye
+2023-03-16,107,Kitap,Kitap,101,6,606,M81,Antalya,Türkiye
+2023-03-16,101,Laptop,Elektronik,9087,9,81783,M57,Bursa,Türkiye
+2023-03-17,107,Kitap,Kitap,120,7,840,M49,Antalya,Türkiye
+2023-03-17,109,Koltuk,Ev & Yaşam,6401,2,12802,M45,İzmir,Türkiye
+2023-03-18,104,T-Shirt,Giyim,348,9,3132,M15,İstanbul,Türkiye
+2023-03-18,102,Telefon,Elektronik,17143,2,34286,M31,İstanbul,Türkiye
+2023-03-18,101,Laptop,Elektronik,21301,8,170408,M6,Bursa,Türkiye
+2023-03-18,105,Pantolon,Giyim,428,10,4280,M8,Antalya,Türkiye
+2023-03-18,110,Televizyon,Elektronik,24569,2,49138,M56,Ankara,Türkiye
+2023-03-19,109,Koltuk,Ev & Yaşam,1410,9,12690,M62,Antalya,Türkiye
+2023-03-19,109,Koltuk,Ev & Yaşam,8337,9,75033,M83,Bursa,Türkiye
+2023-03-20,109,Koltuk,Ev & Yaşam,1653,6,9918,M87,İstanbul,Türkiye
+2023-03-20,103,Tablet,Elektronik,14148,2,28296,M63,Ankara,Türkiye
+2023-03-20,110,Televizyon,Elektronik,19437,8,155496,M14,Antalya,Türkiye
+2023-03-21,104,T-Shirt,Giyim,309,3,927,M25,Bursa,Türkiye
+2023-03-21,104,T-Shirt,Giyim,252,3,756,M45,Bursa,Türkiye
+2023-03-21,110,Televizyon,Elektronik,21544,9,193896,M70,Antalya,Türkiye
+2023-03-22,105,Pantolon,Giyim,930,2,1860,M55,İzmir,Türkiye
+2023-03-22,102,Telefon,Elektronik,11771,6,70626,M6,Ankara,Türkiye
+2023-03-23,110,Televizyon,Elektronik,5540,1,5540,M60,İstanbul,Türkiye
+2023-03-23,103,Tablet,Elektronik,7277,10,72770,M60,İzmir,Türkiye
+2023-03-23,101,Laptop,Elektronik,21558,3,64674,M58,Bursa,Türkiye
+2023-03-23,110,Televizyon,Elektronik,20428,1,20428,M3,İstanbul,Türkiye
+2023-03-24,107,Kitap,Kitap,465,2,930,M74,Bursa,Türkiye
+2023-03-24,109,Koltuk,Ev & Yaşam,1153,7,8071,M73,Ankara,Türkiye
+2023-03-24,101,Laptop,Elektronik,16007,8,128056,M56,Bursa,Türkiye
+2023-03-25,103,Tablet,Elektronik,14278,7,99946,M79,İstanbul,Türkiye
+2023-03-25,109,Koltuk,Ev & Yaşam,5051,2,10102,M53,Bursa,Türkiye
+2023-03-25,110,Televizyon,Elektronik,5719,2,11438,M46,Ankara,Türkiye
+2023-03-25,109,Koltuk,Ev & Yaşam,2681,4,10724,M25,Ankara,Türkiye
+2023-03-26,101,Laptop,Elektronik,20413,4,81652,M79,İzmir,Türkiye
+2023-03-26,107,Kitap,Kitap,161,4,644,M40,İzmir,Türkiye
+2023-03-27,104,T-Shirt,Giyim,140,3,420,M79,İstanbul,Türkiye
+2023-03-27,107,Kitap,Kitap,291,3,873,M40,İzmir,Türkiye
+2023-03-27,107,Kitap,Kitap,500,2,1000,M37,Antalya,Türkiye
+2023-03-28,107,Kitap,Kitap,324,1,324,M86,İstanbul,Türkiye
+2023-03-28,103,Tablet,Elektronik,8086,10,80860,M6,İstanbul,Türkiye
+2023-03-28,108,Çalışma Masası,Ev & Yaşam,4539,4,18156,M7,Bursa,Türkiye
+2023-03-29,104,T-Shirt,Giyim,317,8,2536,M64,İzmir,Türkiye
+2023-03-30,103,Tablet,Elektronik,6044,9,54396,M15,İstanbul,Türkiye
+2023-03-30,109,Koltuk,Ev & Yaşam,5086,8,40688,M67,Bursa,Türkiye
+2023-03-30,104,T-Shirt,Giyim,102,2,204,M84,Antalya,Türkiye
+2023-03-30,102,Telefon,Elektronik,15696,8,125568,M46,İstanbul,Türkiye
+2023-03-30,105,Pantolon,Giyim,289,6,1734,M38,Antalya,Türkiye
+2023-03-31,101,Laptop,Elektronik,8622,9,77598,M21,İzmir,Türkiye
+2023-03-31,106,Kaban,Giyim,598,2,1196,M17,İstanbul,Türkiye
+2023-03-31,103,Tablet,Elektronik,3850,10,38500,M33,İstanbul,Türkiye
+2023-03-31,103,Tablet,Elektronik,11262,1,11262,M51,Antalya,Türkiye
+2023-04-01,102,Telefon,Elektronik,13253,6,79518,M57,İstanbul,Türkiye
+2023-04-01,109,Koltuk,Ev & Yaşam,5585,7,39095,M31,Bursa,Türkiye
+2023-04-02,109,Koltuk,Ev & Yaşam,9894,8,79152,M43,İzmir,Türkiye
+2023-04-02,101,Laptop,Elektronik,24955,9,224595,M76,İzmir,Türkiye
+2023-04-03,101,Laptop,Elektronik,21183,6,127098,M44,Bursa,Türkiye
+2023-04-03,101,Laptop,Elektronik,18531,9,166779,M89,Bursa,Türkiye
+2023-04-04,109,Koltuk,Ev & Yaşam,8934,8,71472,M30,Ankara,Türkiye
+2023-04-04,101,Laptop,Elektronik,14303,7,100121,M98,İzmir,Türkiye
+2023-04-04,105,Pantolon,Giyim,979,4,3916,M15,Antalya,Türkiye
+2023-04-05,104,T-Shirt,Giyim,249,6,1494,M40,Bursa,Türkiye
+2023-04-05,110,Televizyon,Elektronik,21294,6,127764,M50,İstanbul,Türkiye
+2023-04-06,109,Koltuk,Ev & Yaşam,4178,3,12534,M66,İzmir,Türkiye
+2023-04-06,109,Koltuk,Ev & Yaşam,4171,4,16684,M4,Ankara,Türkiye
+2023-04-06,102,Telefon,Elektronik,17348,4,69392,M6,Antalya,Türkiye
+2023-04-07,104,T-Shirt,Giyim,230,7,1610,M19,İstanbul,Türkiye
+2023-04-07,103,Tablet,Elektronik,7014,8,56112,M63,İstanbul,Türkiye
+2023-04-07,101,Laptop,Elektronik,21090,1,21090,M82,Bursa,Türkiye
+2023-04-08,101,Laptop,Elektronik,13620,4,54480,M72,Bursa,Türkiye
+2023-04-08,101,Laptop,Elektronik,23594,4,94376,M20,Bursa,Türkiye
+2023-04-08,105,Pantolon,Giyim,740,4,2960,M40,İstanbul,Türkiye
+2023-04-08,107,Kitap,Kitap,57,3,171,M12,Antalya,Türkiye
+2023-04-08,107,Kitap,Kitap,76,8,608,M70,Antalya,Türkiye
+2023-04-08,108,Çalışma Masası,Ev & Yaşam,3553,10,35530,M83,İzmir,Türkiye
+2023-04-09,105,Pantolon,Giyim,849,2,1698,M91,Bursa,Türkiye
+2023-04-09,108,Çalışma Masası,Ev & Yaşam,1889,3,5667,M14,Antalya,Türkiye
+2023-04-09,103,Tablet,Elektronik,6937,5,34685,M22,Antalya,Türkiye
+2023-04-09,105,Pantolon,Giyim,602,1,602,M11,İzmir,Türkiye
+2023-04-10,103,Tablet,Elektronik,4702,7,32914,M79,Ankara,Türkiye
+2023-04-11,107,Kitap,Kitap,284,6,1704,M6,Ankara,Türkiye
+2023-04-11,109,Koltuk,Ev & Yaşam,2542,7,17794,M96,İstanbul,Türkiye
+2023-04-12,104,T-Shirt,Giyim,146,2,292,M73,İzmir,Türkiye
+2023-04-12,105,Pantolon,Giyim,654,4,2616,M41,Bursa,Türkiye
+2023-04-13,106,Kaban,Giyim,2173,6,13038,M68,Bursa,Türkiye
+2023-04-13,110,Televizyon,Elektronik,10532,3,31596,M100,Bursa,Türkiye
+2023-04-13,107,Kitap,Kitap,171,8,1368,M40,Antalya,Türkiye
+2023-04-14,110,Televizyon,Elektronik,10054,1,10054,M92,İzmir,Türkiye
+2023-04-15,106,Kaban,Giyim,1937,8,15496,M78,Bursa,Türkiye
+2023-04-15,101,Laptop,Elektronik,14720,5,73600,M28,Bursa,Türkiye
+2023-04-16,104,T-Shirt,Giyim,194,8,1552,M60,Bursa,Türkiye
+2023-04-17,108,Çalışma Masası,Ev & Yaşam,690,9,6210,M53,Ankara,Türkiye
+2023-04-18,107,Kitap,Kitap,462,3,1386,M6,İstanbul,Türkiye
+2023-04-18,101,Laptop,Elektronik,25143,10,251430,M4,Antalya,Türkiye
+2023-04-19,109,Koltuk,Ev & Yaşam,5476,4,21904,M79,Ankara,Türkiye
+2023-04-20,106,Kaban,Giyim,1334,6,8004,M20,İzmir,Türkiye
+2023-04-20,103,Tablet,Elektronik,6066,3,18198,M88,İzmir,Türkiye
+2023-04-20,109,Koltuk,Ev & Yaşam,4669,4,18676,M98,İzmir,Türkiye
+2023-04-21,108,Çalışma Masası,Ev & Yaşam,2334,5,11670,M44,İstanbul,Türkiye
+2023-04-21,101,Laptop,Elektronik,12826,8,102608,M53,Ankara,Türkiye
+2023-04-22,108,Çalışma Masası,Ev & Yaşam,4336,9,39024,M52,Antalya,Türkiye
+2023-04-23,107,Kitap,Kitap,461,1,461,M56,Bursa,Türkiye
+2023-04-24,107,Kitap,Kitap,327,1,327,M22,Bursa,Türkiye
+2023-04-25,104,T-Shirt,Giyim,363,9,3267,M99,İstanbul,Türkiye
+2023-04-25,107,Kitap,Kitap,83,7,581,M76,Bursa,Türkiye
+2023-04-25,103,Tablet,Elektronik,10896,1,10896,M8,Bursa,Türkiye
+2023-04-26,109,Koltuk,Ev & Yaşam,4882,8,39056,M56,İstanbul,Türkiye
+2023-04-26,102,Telefon,Elektronik,17177,2,34354,M72,İzmir,Türkiye
+2023-04-26,102,Telefon,Elektronik,7458,5,37290,M83,Bursa,Türkiye
+2023-04-27,108,Çalışma Masası,Ev & Yaşam,2504,3,7512,M56,Antalya,Türkiye
+2023-04-27,102,Telefon,Elektronik,19820,7,138740,M5,Ankara,Türkiye
+2023-04-28,108,Çalışma Masası,Ev & Yaşam,4924,6,29544,M72,İzmir,Türkiye
+2023-04-28,108,Çalışma Masası,Ev & Yaşam,1250,8,10000,M48,Antalya,Türkiye
+2023-04-28,107,Kitap,Kitap,97,1,97,M52,Antalya,Türkiye
+2023-04-28,105,Pantolon,Giyim,259,9,2331,M99,İzmir,Türkiye
+2023-04-29,106,Kaban,Giyim,1270,7,8890,M6,İstanbul,Türkiye
+2023-04-29,103,Tablet,Elektronik,14365,4,57460,M56,Bursa,Türkiye
+2023-04-30,108,Çalışma Masası,Ev & Yaşam,2868,10,28680,M51,İzmir,Türkiye
+2023-04-30,110,Televizyon,Elektronik,14000,9,126000,M45,Antalya,Türkiye
+2023-04-30,103,Tablet,Elektronik,3926,1,3926,M4,Bursa,Türkiye
+2023-04-30,103,Tablet,Elektronik,14060,6,84360,M87,İstanbul,Türkiye
+2023-05-01,110,Televizyon,Elektronik,19275,2,38550,M32,İstanbul,Türkiye
+2023-05-01,110,Televizyon,Elektronik,13309,10,133090,M4,İstanbul,Türkiye
+2023-05-01,109,Koltuk,Ev & Yaşam,1739,9,15651,M11,Antalya,Türkiye
+2023-05-01,101,Laptop,Elektronik,29582,9,266238,M63,Ankara,Türkiye
+2023-05-02,106,Kaban,Giyim,1947,9,17523,M8,Bursa,Türkiye
+2023-05-02,105,Pantolon,Giyim,902,3,2706,M66,İstanbul,Türkiye
+2023-05-02,102,Telefon,Elektronik,14894,9,134046,M18,Antalya,Türkiye
+2023-05-02,109,Koltuk,Ev & Yaşam,4374,10,43740,M1,Ankara,Türkiye
+2023-05-03,107,Kitap,Kitap,166,10,1660,M47,Antalya,Türkiye
+2023-05-03,104,T-Shirt,Giyim,280,8,2240,M46,İzmir,Türkiye
+2023-05-03,108,Çalışma Masası,Ev & Yaşam,2561,10,25610,M49,İzmir,Türkiye
+2023-05-04,104,T-Shirt,Giyim,425,2,850,M48,İstanbul,Türkiye
+2023-05-05,110,Televizyon,Elektronik,24593,1,24593,M99,İzmir,Türkiye
+2023-05-05,102,Telefon,Elektronik,14889,5,74445,M20,Ankara,Türkiye
+2023-05-05,104,T-Shirt,Giyim,195,10,1950,M52,Ankara,Türkiye
+2023-05-05,101,Laptop,Elektronik,24735,3,74205,M11,Bursa,Türkiye
+2023-05-06,101,Laptop,Elektronik,21611,3,64833,M41,Bursa,Türkiye
+2023-05-06,101,Laptop,Elektronik,12908,2,25816,M78,Antalya,Türkiye
+2023-05-07,110,Televizyon,Elektronik,8114,5,40570,M74,Bursa,Türkiye
+2023-05-07,104,T-Shirt,Giyim,264,7,1848,M71,Ankara,Türkiye
+2023-05-07,109,Koltuk,Ev & Yaşam,8404,9,75636,M85,İzmir,Türkiye
+2023-05-07,106,Kaban,Giyim,899,6,5394,M13,Ankara,Türkiye
+2023-05-09,102,Telefon,Elektronik,15117,9,136053,M1,Antalya,Türkiye
+2023-05-09,102,Telefon,Elektronik,11787,4,47148,M37,Antalya,Türkiye
+2023-05-09,106,Kaban,Giyim,2390,6,14340,M23,Bursa,Türkiye
+2023-05-10,101,Laptop,Elektronik,23626,2,47252,M85,İstanbul,Türkiye
+2023-05-10,105,Pantolon,Giyim,468,2,936,M38,Ankara,Türkiye
+2023-05-11,102,Telefon,Elektronik,14006,8,112048,M26,İstanbul,Türkiye
+2023-05-11,108,Çalışma Masası,Ev & Yaşam,2598,5,12990,M50,İstanbul,Türkiye
+2023-05-11,109,Koltuk,Ev & Yaşam,3759,1,3759,M35,İstanbul,Türkiye
+2023-05-13,106,Kaban,Giyim,714,1,714,M14,Ankara,Türkiye
+2023-05-13,105,Pantolon,Giyim,547,10,5470,M58,Antalya,Türkiye
+2023-05-13,108,Çalışma Masası,Ev & Yaşam,4159,4,16636,M8,Antalya,Türkiye
+2023-05-15,110,Televizyon,Elektronik,16591,8,132728,M46,Antalya,Türkiye
+2023-05-15,104,T-Shirt,Giyim,275,8,2200,M36,İstanbul,Türkiye
+2023-05-15,108,Çalışma Masası,Ev & Yaşam,906,10,9060,M15,Bursa,Türkiye
+2023-05-16,108,Çalışma Masası,Ev & Yaşam,4039,7,28273,M43,Bursa,Türkiye
+2023-05-17,103,Tablet,Elektronik,9497,7,66479,M70,Ankara,Türkiye
+2023-05-17,101,Laptop,Elektronik,29490,4,117960,M25,Bursa,Türkiye
+2023-05-17,104,T-Shirt,Giyim,162,2,324,M25,Ankara,Türkiye
+2023-05-17,105,Pantolon,Giyim,201,10,2010,M78,Ankara,Türkiye
+2023-05-18,105,Pantolon,Giyim,250,10,2500,M15,Antalya,Türkiye
+2023-05-18,104,T-Shirt,Giyim,176,3,528,M67,Ankara,Türkiye
+2023-05-18,105,Pantolon,Giyim,951,5,4755,M65,İzmir,Türkiye
+2023-05-19,104,T-Shirt,Giyim,316,6,1896,M51,İzmir,Türkiye
+2023-05-20,101,Laptop,Elektronik,18001,9,162009,M7,Ankara,Türkiye
+2023-05-20,103,Tablet,Elektronik,13840,8,110720,M87,Antalya,Türkiye
+2023-05-20,103,Tablet,Elektronik,13266,1,13266,M98,Antalya,Türkiye
+2023-05-20,102,Telefon,Elektronik,9639,9,86751,M67,İzmir,Türkiye
+2023-05-22,105,Pantolon,Giyim,302,7,2114,M67,Bursa,Türkiye
+2023-05-22,110,Televizyon,Elektronik,18558,5,92790,M39,Bursa,Türkiye
+2023-05-22,107,Kitap,Kitap,334,1,334,M20,Bursa,Türkiye
+2023-05-23,110,Televizyon,Elektronik,8104,5,40520,M46,İzmir,Türkiye
+2023-05-23,109,Koltuk,Ev & Yaşam,9074,2,18148,M99,Antalya,Türkiye
+2023-05-24,107,Kitap,Kitap,299,3,897,M25,Antalya,Türkiye
+2023-05-24,108,Çalışma Masası,Ev & Yaşam,1181,1,1181,M89,Ankara,Türkiye
+2023-05-25,103,Tablet,Elektronik,13394,7,93758,M48,İstanbul,Türkiye
+2023-05-25,104,T-Shirt,Giyim,257,3,771,M96,Ankara,Türkiye
+2023-05-26,105,Pantolon,Giyim,934,3,2802,M69,Antalya,Türkiye
+2023-05-26,107,Kitap,Kitap,182,1,182,M47,Bursa,Türkiye
+2023-05-26,104,T-Shirt,Giyim,400,5,2000,M24,Ankara,Türkiye
+2023-05-26,109,Koltuk,Ev & Yaşam,2460,10,24600,M35,Antalya,Türkiye
+2023-05-27,109,Koltuk,Ev & Yaşam,3210,5,16050,M32,İzmir,Türkiye
+2023-05-28,101,Laptop,Elektronik,17468,8,139744,M29,Bursa,Türkiye
+2023-05-28,108,Çalışma Masası,Ev & Yaşam,2642,7,18494,M47,Ankara,Türkiye
+2023-05-29,106,Kaban,Giyim,2569,6,15414,M67,Ankara,Türkiye
+2023-05-29,108,Çalışma Masası,Ev & Yaşam,2710,6,16260,M60,Antalya,Türkiye
+2023-05-29,109,Koltuk,Ev & Yaşam,8653,4,34612,M52,İzmir,Türkiye
+2023-05-30,107,Kitap,Kitap,259,10,2590,M91,İzmir,Türkiye
+2023-05-30,101,Laptop,Elektronik,21344,2,42688,M70,Bursa,Türkiye
+2023-05-30,105,Pantolon,Giyim,629,1,629,M90,İstanbul,Türkiye
+2023-05-30,108,Çalışma Masası,Ev & Yaşam,3104,9,27936,M69,İzmir,Türkiye
+2023-05-31,101,Laptop,Elektronik,12690,2,25380,M84,Antalya,Türkiye
+2023-06-01,103,Tablet,Elektronik,8096,8,64768,M54,Ankara,Türkiye
+2023-06-01,107,Kitap,Kitap,262,10,2620,M83,Antalya,Türkiye
+2023-06-02,106,Kaban,Giyim,1935,7,13545,M86,Ankara,Türkiye
+2023-06-02,108,Çalışma Masası,Ev & Yaşam,1316,1,1316,M91,Bursa,Türkiye
+2023-06-02,105,Pantolon,Giyim,744,4,2976,M81,Ankara,Türkiye
+2023-06-03,110,Televizyon,Elektronik,13365,10,133650,M11,Bursa,Türkiye
+2023-06-03,110,Televizyon,Elektronik,19507,7,136549,M94,İstanbul,Türkiye
+2023-06-03,106,Kaban,Giyim,1709,6,10254,M61,İzmir,Türkiye
+2023-06-04,109,Koltuk,Ev & Yaşam,9808,2,19616,M55,Bursa,Türkiye
+2023-06-04,102,Telefon,Elektronik,11811,4,47244,M60,İstanbul,Türkiye
+2023-06-05,109,Koltuk,Ev & Yaşam,4620,7,32340,M8,Bursa,Türkiye
+2023-06-05,101,Laptop,Elektronik,12617,4,50468,M87,Bursa,Türkiye
+2023-06-05,107,Kitap,Kitap,407,6,2442,M49,İstanbul,Türkiye
+2023-06-06,110,Televizyon,Elektronik,13189,4,52756,M96,İzmir,Türkiye
+2023-06-06,104,T-Shirt,Giyim,116,7,812,M8,Bursa,Türkiye
+2023-06-06,102,Telefon,Elektronik,12021,7,84147,M7,Bursa,Türkiye
+2023-06-06,103,Tablet,Elektronik,3641,1,3641,M74,İstanbul,Türkiye
+2023-06-07,108,Çalışma Masası,Ev & Yaşam,2221,1,2221,M77,Antalya,Türkiye
+2023-06-07,104,T-Shirt,Giyim,429,2,858,M6,İstanbul,Türkiye
+2023-06-08,108,Çalışma Masası,Ev & Yaşam,3267,4,13068,M26,Ankara,Türkiye
+2023-06-09,103,Tablet,Elektronik,11958,7,83706,M2,İzmir,Türkiye
+2023-06-09,105,Pantolon,Giyim,751,10,7510,M20,İstanbul,Türkiye
+2023-06-10,107,Kitap,Kitap,439,7,3073,M91,İstanbul,Türkiye
+2023-06-11,106,Kaban,Giyim,1103,6,6618,M60,İzmir,Türkiye
+2023-06-11,109,Koltuk,Ev & Yaşam,9515,6,57090,M16,Ankara,Türkiye
+2023-06-11,108,Çalışma Masası,Ev & Yaşam,2425,1,2425,M70,Antalya,Türkiye
+2023-06-12,105,Pantolon,Giyim,555,1,555,M28,İzmir,Türkiye
+2023-06-12,106,Kaban,Giyim,858,10,8580,M32,İstanbul,Türkiye
+2023-06-13,101,Laptop,Elektronik,24869,6,149214,M41,Antalya,Türkiye
+2023-06-13,104,T-Shirt,Giyim,273,4,1092,M32,Ankara,Türkiye
+2023-06-14,102,Telefon,Elektronik,11910,1,11910,M7,Ankara,Türkiye
+2023-06-14,103,Tablet,Elektronik,13598,2,27196,M37,İzmir,Türkiye
+2023-06-14,108,Çalışma Masası,Ev & Yaşam,696,7,4872,M41,Antalya,Türkiye
+2023-06-14,105,Pantolon,Giyim,519,4,2076,M57,Bursa,Türkiye
+2023-06-14,109,Koltuk,Ev & Yaşam,7346,10,73460,M15,Bursa,Türkiye
+2023-06-15,103,Tablet,Elektronik,13426,6,80556,M50,Bursa,Türkiye
+2023-06-16,106,Kaban,Giyim,670,10,6700,M48,Bursa,Türkiye
+2023-06-16,102,Telefon,Elektronik,17692,7,123844,M81,İstanbul,Türkiye
+2023-06-16,109,Koltuk,Ev & Yaşam,2865,7,20055,M60,Antalya,Türkiye
+2023-06-16,109,Koltuk,Ev & Yaşam,3719,6,22314,M30,Bursa,Türkiye
+2023-06-17,107,Kitap,Kitap,294,8,2352,M57,Antalya,Türkiye
+2023-06-17,110,Televizyon,Elektronik,23847,4,95388,M59,Bursa,Türkiye
+2023-06-17,109,Koltuk,Ev & Yaşam,9208,2,18416,M5,Bursa,Türkiye
+2023-06-18,105,Pantolon,Giyim,585,8,4680,M5,Antalya,Türkiye
+2023-06-18,101,Laptop,Elektronik,26258,3,78774,M76,İstanbul,Türkiye
+2023-06-18,104,T-Shirt,Giyim,110,9,990,M25,Antalya,Türkiye
+2023-06-20,107,Kitap,Kitap,410,4,1640,M87,İzmir,Türkiye
+2023-06-20,110,Televizyon,Elektronik,12921,2,25842,M29,İzmir,Türkiye
+2023-06-20,107,Kitap,Kitap,188,7,1316,M77,İzmir,Türkiye
+2023-06-20,106,Kaban,Giyim,1224,9,11016,M28,Bursa,Türkiye
+2023-06-21,107,Kitap,Kitap,193,4,772,M67,İstanbul,Türkiye
+2023-06-21,109,Koltuk,Ev & Yaşam,4268,9,38412,M39,Ankara,Türkiye
+2023-06-22,101,Laptop,Elektronik,12578,2,25156,M11,Antalya,Türkiye
+2023-06-22,107,Kitap,Kitap,325,8,2600,M4,Antalya,Türkiye
+2023-06-23,102,Telefon,Elektronik,14510,9,130590,M90,Ankara,Türkiye
+2023-06-23,106,Kaban,Giyim,890,2,1780,M43,İzmir,Türkiye
+2023-06-24,105,Pantolon,Giyim,704,5,3520,M68,İzmir,Türkiye
+2023-06-25,105,Pantolon,Giyim,468,10,4680,M58,İstanbul,Türkiye
+2023-06-25,108,Çalışma Masası,Ev & Yaşam,1459,1,1459,M46,İzmir,Türkiye
+2023-06-26,108,Çalışma Masası,Ev & Yaşam,2507,1,2507,M97,İstanbul,Türkiye
+2023-06-26,107,Kitap,Kitap,107,9,963,M68,Antalya,Türkiye
+2023-06-27,110,Televizyon,Elektronik,19013,10,190130,M12,Ankara,Türkiye
+2023-06-27,101,Laptop,Elektronik,11950,10,119500,M53,Antalya,Türkiye
+2023-06-27,104,T-Shirt,Giyim,417,10,4170,M68,Ankara,Türkiye
+2023-06-27,107,Kitap,Kitap,68,6,408,M12,Antalya,Türkiye
+2023-06-28,106,Kaban,Giyim,2434,8,19472,M25,İzmir,Türkiye
+2023-06-28,110,Televizyon,Elektronik,21905,5,109525,M36,Ankara,Türkiye
+2023-06-28,108,Çalışma Masası,Ev & Yaşam,2930,10,29300,M88,İzmir,Türkiye
+2023-06-28,106,Kaban,Giyim,2289,8,18312,M4,Ankara,Türkiye
+2023-06-28,109,Koltuk,Ev & Yaşam,8954,3,26862,M90,İstanbul,Türkiye
+2023-06-29,108,Çalışma Masası,Ev & Yaşam,1186,5,5930,M74,Bursa,Türkiye
+2023-06-29,102,Telefon,Elektronik,19274,4,77096,M72,Ankara,Türkiye
+2023-06-29,102,Telefon,Elektronik,5928,6,35568,M76,İzmir,Türkiye
+2023-06-29,102,Telefon,Elektronik,18993,5,94965,M56,Ankara,Türkiye
+2023-06-29,104,T-Shirt,Giyim,456,8,3648,M93,İzmir,Türkiye
+2023-06-29,110,Televizyon,Elektronik,6163,8,49304,M46,Bursa,Türkiye
+2023-06-29,103,Tablet,Elektronik,4601,9,41409,M98,Bursa,Türkiye
+2023-06-30,105,Pantolon,Giyim,214,10,2140,M8,Bursa,Türkiye
+2023-06-30,105,Pantolon,Giyim,523,2,1046,M70,Ankara,Türkiye
+2023-06-30,103,Tablet,Elektronik,8880,2,17760,M36,İstanbul,Türkiye
+2023-06-30,108,Çalışma Masası,Ev & Yaşam,4645,5,23225,M61,Antalya,Türkiye
+2023-07-01,101,Laptop,Elektronik,29036,5,145180,M100,Ankara,Türkiye
+2023-07-02,109,Koltuk,Ev & Yaşam,7091,4,28364,M78,Ankara,Türkiye
+2023-07-02,105,Pantolon,Giyim,432,5,2160,M28,Bursa,Türkiye
+2023-07-02,102,Telefon,Elektronik,17351,4,69404,M27,İzmir,Türkiye
+2023-07-03,104,T-Shirt,Giyim,103,10,1030,M5,Ankara,Türkiye
+2023-07-03,109,Koltuk,Ev & Yaşam,3163,9,28467,M99,Ankara,Türkiye
+2023-07-04,108,Çalışma Masası,Ev & Yaşam,4419,6,26514,M82,İstanbul,Türkiye
+2023-07-04,103,Tablet,Elektronik,11823,6,70938,M87,İzmir,Türkiye
+2023-07-05,110,Televizyon,Elektronik,19767,3,59301,M19,Bursa,Türkiye
+2023-07-06,103,Tablet,Elektronik,10769,2,21538,M40,İstanbul,Türkiye
+2023-07-06,110,Televizyon,Elektronik,6955,6,41730,M95,Antalya,Türkiye
+2023-07-07,110,Televizyon,Elektronik,5997,5,29985,M68,İzmir,Türkiye
+2023-07-07,102,Telefon,Elektronik,19308,5,96540,M47,İstanbul,Türkiye
+2023-07-07,106,Kaban,Giyim,1428,1,1428,M12,Bursa,Türkiye
+2023-07-07,104,T-Shirt,Giyim,383,8,3064,M3,Bursa,Türkiye
+2023-07-08,110,Televizyon,Elektronik,22479,7,157353,M41,Ankara,Türkiye
+2023-07-08,103,Tablet,Elektronik,10913,10,109130,M37,Bursa,Türkiye
+2023-07-08,101,Laptop,Elektronik,9053,4,36212,M49,Bursa,Türkiye
+2023-07-08,104,T-Shirt,Giyim,328,9,2952,M66,Ankara,Türkiye
+2023-07-09,110,Televizyon,Elektronik,11646,7,81522,M16,İstanbul,Türkiye
+2023-07-09,107,Kitap,Kitap,284,10,2840,M95,İzmir,Türkiye
+2023-07-09,104,T-Shirt,Giyim,391,8,3128,M42,Bursa,Türkiye
+2023-07-10,109,Koltuk,Ev & Yaşam,8743,10,87430,M43,Antalya,Türkiye
+2023-07-10,106,Kaban,Giyim,1361,2,2722,M75,Antalya,Türkiye
+2023-07-10,110,Televizyon,Elektronik,21578,6,129468,M73,İzmir,Türkiye
+2023-07-10,110,Televizyon,Elektronik,12513,1,12513,M44,Antalya,Türkiye
+2023-07-11,110,Televizyon,Elektronik,8699,8,69592,M38,Bursa,Türkiye
+2023-07-11,109,Koltuk,Ev & Yaşam,3961,2,7922,M61,İstanbul,Türkiye
+2023-07-11,108,Çalışma Masası,Ev & Yaşam,681,1,681,M51,İzmir,Türkiye
+2023-07-12,104,T-Shirt,Giyim,372,9,3348,M16,Bursa,Türkiye
+2023-07-12,104,T-Shirt,Giyim,447,6,2682,M98,Antalya,Türkiye
+2023-07-12,102,Telefon,Elektronik,14416,1,14416,M73,Antalya,Türkiye
+2023-07-13,109,Koltuk,Ev & Yaşam,8709,7,60963,M49,Bursa,Türkiye
+2023-07-13,108,Çalışma Masası,Ev & Yaşam,1827,6,10962,M82,Ankara,Türkiye
+2023-07-13,107,Kitap,Kitap,242,8,1936,M96,Ankara,Türkiye
+2023-07-14,101,Laptop,Elektronik,24400,6,146400,M54,Bursa,Türkiye
+2023-07-14,103,Tablet,Elektronik,14444,3,43332,M14,Ankara,Türkiye
+2023-07-15,110,Televizyon,Elektronik,14706,6,88236,M72,Antalya,Türkiye
+2023-07-15,104,T-Shirt,Giyim,185,5,925,M17,Ankara,Türkiye
+2023-07-15,106,Kaban,Giyim,832,9,7488,M54,Antalya,Türkiye
+2023-07-16,104,T-Shirt,Giyim,320,6,1920,M21,İzmir,Türkiye
+2023-07-16,109,Koltuk,Ev & Yaşam,8367,1,8367,M35,Antalya,Türkiye
+2023-07-16,101,Laptop,Elektronik,9700,8,77600,M44,İstanbul,Türkiye
+2023-07-17,108,Çalışma Masası,Ev & Yaşam,4614,2,9228,M30,Bursa,Türkiye
+2023-07-17,109,Koltuk,Ev & Yaşam,7604,5,38020,M23,İzmir,Türkiye
+2023-07-17,109,Koltuk,Ev & Yaşam,3969,5,19845,M36,İstanbul,Türkiye
+2023-07-17,104,T-Shirt,Giyim,406,10,4060,M86,Antalya,Türkiye
+2023-07-17,108,Çalışma Masası,Ev & Yaşam,3403,9,30627,M78,Bursa,Türkiye
+2023-07-18,102,Telefon,Elektronik,8084,9,72756,M1,Bursa,Türkiye
+2023-07-18,103,Tablet,Elektronik,13722,7,96054,M27,İzmir,Türkiye
+2023-07-19,106,Kaban,Giyim,845,4,3380,M50,Ankara,Türkiye
+2023-07-19,106,Kaban,Giyim,2813,10,28130,M3,İzmir,Türkiye
+2023-07-20,104,T-Shirt,Giyim,317,3,951,M18,İstanbul,Türkiye
+2023-07-20,101,Laptop,Elektronik,22803,10,228030,M29,İzmir,Türkiye
+2023-07-22,103,Tablet,Elektronik,8386,1,8386,M70,Ankara,Türkiye
+2023-07-22,105,Pantolon,Giyim,664,9,5976,M75,İzmir,Türkiye
+2023-07-22,106,Kaban,Giyim,1060,7,7420,M83,Antalya,Türkiye
+2023-07-22,101,Laptop,Elektronik,25935,6,155610,M37,Bursa,Türkiye
+2023-07-23,106,Kaban,Giyim,740,6,4440,M36,Bursa,Türkiye
+2023-07-23,101,Laptop,Elektronik,11852,5,59260,M29,Antalya,Türkiye
+2023-07-23,104,T-Shirt,Giyim,165,1,165,M70,Bursa,Türkiye
+2023-07-23,102,Telefon,Elektronik,6700,1,6700,M61,İzmir,Türkiye
+2023-07-23,103,Tablet,Elektronik,5320,5,26600,M33,Antalya,Türkiye
+2023-07-24,103,Tablet,Elektronik,11132,9,100188,M95,Ankara,Türkiye
+2023-07-24,102,Telefon,Elektronik,15884,7,111188,M89,Bursa,Türkiye
+2023-07-25,108,Çalışma Masası,Ev & Yaşam,4158,1,4158,M16,Ankara,Türkiye
+2023-07-25,104,T-Shirt,Giyim,296,5,1480,M31,İzmir,Türkiye
+2023-07-25,107,Kitap,Kitap,410,3,1230,M38,Ankara,Türkiye
+2023-07-26,101,Laptop,Elektronik,28192,1,28192,M30,Antalya,Türkiye
+2023-07-26,104,T-Shirt,Giyim,291,4,1164,M89,Antalya,Türkiye
+2023-07-26,108,Çalışma Masası,Ev & Yaşam,1867,2,3734,M48,Ankara,Türkiye
+2023-07-27,110,Televizyon,Elektronik,20819,1,20819,M77,Antalya,Türkiye
+2023-07-27,105,Pantolon,Giyim,401,3,1203,M96,Bursa,Türkiye
+2023-07-27,105,Pantolon,Giyim,576,8,4608,M92,Antalya,Türkiye
+2023-07-28,107,Kitap,Kitap,53,4,212,M2,İzmir,Türkiye
+2023-07-28,109,Koltuk,Ev & Yaşam,7839,2,15678,M27,İzmir,Türkiye
+2023-07-29,105,Pantolon,Giyim,759,1,759,M67,Antalya,Türkiye
+2023-07-29,109,Koltuk,Ev & Yaşam,8767,8,70136,M99,İzmir,Türkiye
+2023-07-29,102,Telefon,Elektronik,14489,6,86934,M16,Antalya,Türkiye
+2023-07-30,103,Tablet,Elektronik,13572,6,81432,M58,Bursa,Türkiye
+2023-07-31,103,Tablet,Elektronik,7943,2,15886,M62,Ankara,Türkiye
+2023-07-31,103,Tablet,Elektronik,5211,9,46899,M39,Ankara,Türkiye
+2023-07-31,107,Kitap,Kitap,335,4,1340,M31,Antalya,Türkiye
+2023-08-01,108,Çalışma Masası,Ev & Yaşam,2501,9,22509,M30,İzmir,Türkiye
+2023-08-01,107,Kitap,Kitap,368,5,1840,M6,Ankara,Türkiye
+2023-08-01,102,Telefon,Elektronik,9526,10,95260,M20,İzmir,Türkiye
+2023-08-01,105,Pantolon,Giyim,946,9,8514,M11,Bursa,Türkiye
+2023-08-02,110,Televizyon,Elektronik,15248,1,15248,M63,Ankara,Türkiye
+2023-08-03,102,Telefon,Elektronik,19332,6,115992,M85,Bursa,Türkiye
+2023-08-03,107,Kitap,Kitap,426,2,852,M29,Ankara,Türkiye
+2023-08-04,101,Laptop,Elektronik,11607,7,81249,M8,Antalya,Türkiye
+2023-08-04,101,Laptop,Elektronik,9349,6,56094,M2,İzmir,Türkiye
+2023-08-04,101,Laptop,Elektronik,14980,10,149800,M16,Bursa,Türkiye
+2023-08-05,102,Telefon,Elektronik,6016,2,12032,M64,Antalya,Türkiye
+2023-08-05,101,Laptop,Elektronik,19950,6,119700,M47,Bursa,Türkiye
+2023-08-06,106,Kaban,Giyim,2239,8,17912,M19,Ankara,Türkiye
+2023-08-07,109,Koltuk,Ev & Yaşam,1105,7,7735,M2,Ankara,Türkiye
+2023-08-08,106,Kaban,Giyim,960,2,1920,M70,İzmir,Türkiye
+2023-08-08,104,T-Shirt,Giyim,372,6,2232,M19,Bursa,Türkiye
+2023-08-08,108,Çalışma Masası,Ev & Yaşam,2059,6,12354,M16,Ankara,Türkiye
+2023-08-08,104,T-Shirt,Giyim,281,7,1967,M13,Bursa,Türkiye
+2023-08-08,102,Telefon,Elektronik,9510,7,66570,M27,Ankara,Türkiye
+2023-08-08,105,Pantolon,Giyim,325,9,2925,M38,İstanbul,Türkiye
+2023-08-09,105,Pantolon,Giyim,986,4,3944,M57,İzmir,Türkiye
+2023-08-09,108,Çalışma Masası,Ev & Yaşam,3234,9,29106,M14,Bursa,Türkiye
+2023-08-09,110,Televizyon,Elektronik,7250,5,36250,M52,Bursa,Türkiye
+2023-08-09,106,Kaban,Giyim,1810,4,7240,M43,İzmir,Türkiye
+2023-08-11,105,Pantolon,Giyim,855,7,5985,M70,İstanbul,Türkiye
+2023-08-12,110,Televizyon,Elektronik,11954,3,35862,M67,Antalya,Türkiye
+2023-08-12,109,Koltuk,Ev & Yaşam,6669,4,26676,M91,İzmir,Türkiye
+2023-08-12,105,Pantolon,Giyim,356,3,1068,M14,Ankara,Türkiye
+2023-08-12,108,Çalışma Masası,Ev & Yaşam,1889,7,13223,M26,Ankara,Türkiye
+2023-08-13,107,Kitap,Kitap,446,10,4460,M46,İstanbul,Türkiye
+2023-08-13,103,Tablet,Elektronik,6311,6,37866,M58,İzmir,Türkiye
+2023-08-14,106,Kaban,Giyim,1331,3,3993,M15,Bursa,Türkiye
+2023-08-14,108,Çalışma Masası,Ev & Yaşam,1022,8,8176,M84,İstanbul,Türkiye
+2023-08-14,108,Çalışma Masası,Ev & Yaşam,2073,9,18657,M53,Ankara,Türkiye
+2023-08-15,103,Tablet,Elektronik,13838,3,41514,M60,İzmir,Türkiye
+2023-08-15,105,Pantolon,Giyim,651,1,651,M12,İstanbul,Türkiye
+2023-08-15,109,Koltuk,Ev & Yaşam,9793,1,9793,M23,Ankara,Türkiye
+2023-08-17,109,Koltuk,Ev & Yaşam,3278,9,29502,M16,İstanbul,Türkiye
+2023-08-17,104,T-Shirt,Giyim,103,3,309,M29,Antalya,Türkiye
+2023-08-17,108,Çalışma Masası,Ev & Yaşam,3908,8,31264,M47,Ankara,Türkiye
+2023-08-17,101,Laptop,Elektronik,19657,2,39314,M37,İstanbul,Türkiye
+2023-08-19,104,T-Shirt,Giyim,402,3,1206,M79,İzmir,Türkiye
+2023-08-19,103,Tablet,Elektronik,3348,7,23436,M72,Antalya,Türkiye
+2023-08-20,103,Tablet,Elektronik,10671,10,106710,M29,Bursa,Türkiye
+2023-08-20,108,Çalışma Masası,Ev & Yaşam,2977,7,20839,M27,Bursa,Türkiye
+2023-08-22,102,Telefon,Elektronik,18204,3,54612,M31,Antalya,Türkiye
+2023-08-22,109,Koltuk,Ev & Yaşam,8177,10,81770,M8,İstanbul,Türkiye
+2023-08-22,101,Laptop,Elektronik,8597,8,68776,M35,Ankara,Türkiye
+2023-08-22,104,T-Shirt,Giyim,174,3,522,M9,İzmir,Türkiye
+2023-08-23,103,Tablet,Elektronik,7684,3,23052,M17,Bursa,Türkiye
+2023-08-24,103,Tablet,Elektronik,6429,8,51432,M5,Bursa,Türkiye
+2023-08-25,103,Tablet,Elektronik,6951,5,34755,M58,İstanbul,Türkiye
+2023-08-25,106,Kaban,Giyim,700,3,2100,M42,İstanbul,Türkiye
+2023-08-26,109,Koltuk,Ev & Yaşam,1661,1,1661,M92,İstanbul,Türkiye
+2023-08-27,106,Kaban,Giyim,2638,6,15828,M90,Bursa,Türkiye
+2023-08-27,102,Telefon,Elektronik,15344,7,107408,M58,Antalya,Türkiye
+2023-08-27,103,Tablet,Elektronik,6997,10,69970,M35,İzmir,Türkiye
+2023-08-27,107,Kitap,Kitap,431,3,1293,M95,İzmir,Türkiye
+2023-08-28,108,Çalışma Masası,Ev & Yaşam,1598,2,3196,M92,İzmir,Türkiye
+2023-08-29,102,Telefon,Elektronik,12893,1,12893,M36,Ankara,Türkiye
+2023-08-29,108,Çalışma Masası,Ev & Yaşam,1125,2,2250,M52,Antalya,Türkiye
+2023-08-30,107,Kitap,Kitap,242,9,2178,M51,İzmir,Türkiye
+2023-08-30,106,Kaban,Giyim,1304,1,1304,M6,Antalya,Türkiye
+2023-08-30,102,Telefon,Elektronik,18328,6,109968,M54,İstanbul,Türkiye
+2023-08-30,109,Koltuk,Ev & Yaşam,7543,4,30172,M5,Antalya,Türkiye
+2023-08-30,103,Tablet,Elektronik,10658,2,21316,M81,İstanbul,Türkiye
+2023-08-30,105,Pantolon,Giyim,317,10,3170,M18,Ankara,Türkiye
+2023-08-30,102,Telefon,Elektronik,13389,8,107112,M46,İstanbul,Türkiye
+2023-08-31,108,Çalışma Masası,Ev & Yaşam,4454,1,4454,M74,Antalya,Türkiye
+2023-08-31,101,Laptop,Elektronik,25411,8,203288,M85,Ankara,Türkiye
+2023-09-01,105,Pantolon,Giyim,348,4,1392,M70,Bursa,Türkiye
+2023-09-01,108,Çalışma Masası,Ev & Yaşam,1739,6,10434,M8,İstanbul,Türkiye
+2023-09-01,106,Kaban,Giyim,1679,1,1679,M87,İzmir,Türkiye
+2023-09-02,104,T-Shirt,Giyim,431,4,1724,M28,Bursa,Türkiye
+2023-09-02,107,Kitap,Kitap,77,10,770,M4,Ankara,Türkiye
+2023-09-02,109,Koltuk,Ev & Yaşam,7342,4,29368,M31,Bursa,Türkiye
+2023-09-03,108,Çalışma Masası,Ev & Yaşam,1525,8,12200,M74,Antalya,Türkiye
+2023-09-03,106,Kaban,Giyim,1363,7,9541,M8,İzmir,Türkiye
+2023-09-05,102,Telefon,Elektronik,10650,1,10650,M3,İzmir,Türkiye
+2023-09-05,104,T-Shirt,Giyim,473,2,946,M76,Bursa,Türkiye
+2023-09-05,109,Koltuk,Ev & Yaşam,5242,2,10484,M24,İzmir,Türkiye
+2023-09-06,108,Çalışma Masası,Ev & Yaşam,1139,1,1139,M21,Antalya,Türkiye
+2023-09-06,109,Koltuk,Ev & Yaşam,8441,3,25323,M3,Bursa,Türkiye
+2023-09-06,107,Kitap,Kitap,376,3,1128,M83,İzmir,Türkiye
+2023-09-06,102,Telefon,Elektronik,8996,9,80964,M63,Antalya,Türkiye
+2023-09-06,107,Kitap,Kitap,71,6,426,M19,Antalya,Türkiye
+2023-09-06,110,Televizyon,Elektronik,7156,7,50092,M88,Antalya,Türkiye
+2023-09-06,103,Tablet,Elektronik,9077,3,27231,M44,Ankara,Türkiye
+2023-09-07,110,Televizyon,Elektronik,23422,4,93688,M48,Ankara,Türkiye
+2023-09-07,106,Kaban,Giyim,2679,5,13395,M76,Ankara,Türkiye
+2023-09-07,110,Televizyon,Elektronik,18509,7,129563,M59,İzmir,Türkiye
+2023-09-08,104,T-Shirt,Giyim,252,7,1764,M50,Ankara,Türkiye
+2023-09-08,107,Kitap,Kitap,241,8,1928,M98,Bursa,Türkiye
+2023-09-09,108,Çalışma Masası,Ev & Yaşam,2553,8,20424,M77,İstanbul,Türkiye
+2023-09-11,105,Pantolon,Giyim,298,10,2980,M36,İstanbul,Türkiye
+2023-09-11,103,Tablet,Elektronik,6631,2,13262,M11,İstanbul,Türkiye
+2023-09-11,105,Pantolon,Giyim,320,6,1920,M74,İstanbul,Türkiye
+2023-09-12,108,Çalışma Masası,Ev & Yaşam,2325,7,16275,M80,Antalya,Türkiye
+2023-09-12,101,Laptop,Elektronik,20058,9,180522,M51,İstanbul,Türkiye
+2023-09-12,105,Pantolon,Giyim,610,1,610,M91,Ankara,Türkiye
+2023-09-12,101,Laptop,Elektronik,8016,5,40080,M80,Ankara,Türkiye
+2023-09-13,109,Koltuk,Ev & Yaşam,4290,5,21450,M33,Bursa,Türkiye
+2023-09-13,107,Kitap,Kitap,184,9,1656,M37,Antalya,Türkiye
+2023-09-14,103,Tablet,Elektronik,14765,7,103355,M81,İzmir,Türkiye
+2023-09-14,109,Koltuk,Ev & Yaşam,3804,1,3804,M58,Ankara,Türkiye
+2023-09-14,110,Televizyon,Elektronik,24438,5,122190,M45,İstanbul,Türkiye
+2023-09-15,108,Çalışma Masası,Ev & Yaşam,1721,9,15489,M23,İzmir,Türkiye
+2023-09-15,105,Pantolon,Giyim,787,10,7870,M94,Bursa,Türkiye
+2023-09-16,108,Çalışma Masası,Ev & Yaşam,1220,5,6100,M94,Ankara,Türkiye
+2023-09-16,104,T-Shirt,Giyim,282,6,1692,M12,Antalya,Türkiye
+2023-09-16,101,Laptop,Elektronik,18722,6,112332,M9,Ankara,Türkiye
+2023-09-17,106,Kaban,Giyim,889,2,1778,M93,İstanbul,Türkiye
+2023-09-18,110,Televizyon,Elektronik,9467,4,37868,M53,İzmir,Türkiye
+2023-09-18,106,Kaban,Giyim,890,3,2670,M64,Antalya,Türkiye
+2023-09-18,110,Televizyon,Elektronik,16059,8,128472,M2,Antalya,Türkiye
+2023-09-18,107,Kitap,Kitap,181,5,905,M25,Bursa,Türkiye
+2023-09-19,103,Tablet,Elektronik,6595,9,59355,M82,İzmir,Türkiye
+2023-09-19,108,Çalışma Masası,Ev & Yaşam,3245,9,29205,M23,İstanbul,Türkiye
+2023-09-20,109,Koltuk,Ev & Yaşam,2852,9,25668,M41,Bursa,Türkiye
+2023-09-20,103,Tablet,Elektronik,11792,1,11792,M25,Antalya,Türkiye
+2023-09-20,107,Kitap,Kitap,318,9,2862,M74,Ankara,Türkiye
+2023-09-20,107,Kitap,Kitap,292,8,2336,M52,Ankara,Türkiye
+2023-09-21,104,T-Shirt,Giyim,174,7,1218,M66,İzmir,Türkiye
+2023-09-21,106,Kaban,Giyim,1740,5,8700,M19,Ankara,Türkiye
+2023-09-21,102,Telefon,Elektronik,8713,9,78417,M70,İzmir,Türkiye
+2023-09-22,107,Kitap,Kitap,316,6,1896,M35,İstanbul,Türkiye
+2023-09-22,101,Laptop,Elektronik,18421,7,128947,M6,Ankara,Türkiye
+2023-09-22,103,Tablet,Elektronik,8472,6,50832,M18,İzmir,Türkiye
+2023-09-22,109,Koltuk,Ev & Yaşam,4457,4,17828,M26,İstanbul,Türkiye
+2023-09-23,104,T-Shirt,Giyim,275,9,2475,M17,Ankara,Türkiye
+2023-09-23,103,Tablet,Elektronik,4625,1,4625,M63,Bursa,Türkiye
+2023-09-23,104,T-Shirt,Giyim,100,4,400,M27,İzmir,Türkiye
+2023-09-24,104,T-Shirt,Giyim,151,7,1057,M22,Ankara,Türkiye
+2023-09-24,105,Pantolon,Giyim,412,8,3296,M59,İzmir,Türkiye
+2023-09-24,109,Koltuk,Ev & Yaşam,9898,8,79184,M80,Bursa,Türkiye
+2023-09-25,103,Tablet,Elektronik,10256,3,30768,M32,Antalya,Türkiye
+2023-09-26,108,Çalışma Masası,Ev & Yaşam,4551,8,36408,M94,İzmir,Türkiye
+2023-09-26,108,Çalışma Masası,Ev & Yaşam,1461,8,11688,M39,Bursa,Türkiye
+2023-09-26,104,T-Shirt,Giyim,451,6,2706,M54,İzmir,Türkiye
+2023-09-26,107,Kitap,Kitap,252,6,1512,M87,İstanbul,Türkiye
+2023-09-26,102,Telefon,Elektronik,8487,4,33948,M41,İstanbul,Türkiye
+2023-09-27,105,Pantolon,Giyim,691,1,691,M6,Ankara,Türkiye
+2023-09-27,110,Televizyon,Elektronik,6844,1,6844,M98,Bursa,Türkiye
+2023-09-27,104,T-Shirt,Giyim,136,2,272,M36,Bursa,Türkiye
+2023-09-27,101,Laptop,Elektronik,13312,9,119808,M65,Antalya,Türkiye
+2023-09-27,105,Pantolon,Giyim,682,9,6138,M66,İzmir,Türkiye
+2023-09-27,105,Pantolon,Giyim,659,8,5272,M34,İstanbul,Türkiye
+2023-09-27,106,Kaban,Giyim,747,8,5976,M32,Antalya,Türkiye
+2023-09-27,110,Televizyon,Elektronik,9136,8,73088,M66,Bursa,Türkiye
+2023-09-27,101,Laptop,Elektronik,18775,5,93875,M25,Bursa,Türkiye
+2023-09-28,108,Çalışma Masası,Ev & Yaşam,4669,4,18676,M89,İzmir,Türkiye
+2023-09-28,110,Televizyon,Elektronik,21282,1,21282,M66,Bursa,Türkiye
+2023-09-28,106,Kaban,Giyim,2486,1,2486,M78,Antalya,Türkiye
+2023-09-29,103,Tablet,Elektronik,3283,3,9849,M9,Ankara,Türkiye
+2023-09-29,105,Pantolon,Giyim,721,8,5768,M56,Bursa,Türkiye
+2023-09-29,104,T-Shirt,Giyim,277,8,2216,M81,Antalya,Türkiye
+2023-09-29,105,Pantolon,Giyim,308,9,2772,M81,Antalya,Türkiye
+2023-09-29,110,Televizyon,Elektronik,14138,5,70690,M54,Bursa,Türkiye
+2023-09-29,104,T-Shirt,Giyim,458,7,3206,M13,Antalya,Türkiye
+2023-09-30,103,Tablet,Elektronik,5352,10,53520,M30,İstanbul,Türkiye
+2023-09-30,104,T-Shirt,Giyim,349,6,2094,M8,Antalya,Türkiye
+2023-10-01,101,Laptop,Elektronik,15020,5,75100,M16,İstanbul,Türkiye
+2023-10-01,107,Kitap,Kitap,230,9,2070,M93,İstanbul,Türkiye
+2023-10-01,110,Televizyon,Elektronik,10762,9,96858,M6,Antalya,Türkiye
+2023-10-01,106,Kaban,Giyim,1261,10,12610,M31,Ankara,Türkiye
+2023-10-03,105,Pantolon,Giyim,381,2,762,M29,Antalya,Türkiye
+2023-10-03,110,Televizyon,Elektronik,7978,7,55846,M33,Ankara,Türkiye
+2023-10-04,106,Kaban,Giyim,2506,1,2506,M21,Ankara,Türkiye
+2023-10-05,101,Laptop,Elektronik,28447,4,113788,M63,Ankara,Türkiye
+2023-10-05,101,Laptop,Elektronik,14250,4,57000,M68,İstanbul,Türkiye
+2023-10-05,109,Koltuk,Ev & Yaşam,8602,5,43010,M90,İzmir,Türkiye
+2023-10-05,104,T-Shirt,Giyim,263,2,526,M38,Antalya,Türkiye
+2023-10-05,101,Laptop,Elektronik,28524,8,228192,M66,Antalya,Türkiye
+2023-10-06,103,Tablet,Elektronik,12891,1,12891,M46,İzmir,Türkiye
+2023-10-06,108,Çalışma Masası,Ev & Yaşam,4562,8,36496,M19,İzmir,Türkiye
+2023-10-06,105,Pantolon,Giyim,497,2,994,M83,İzmir,Türkiye
+2023-10-06,108,Çalışma Masası,Ev & Yaşam,3065,1,3065,M90,İzmir,Türkiye
+2023-10-06,103,Tablet,Elektronik,14486,10,144860,M31,Antalya,Türkiye
+2023-10-07,109,Koltuk,Ev & Yaşam,6560,7,45920,M62,İzmir,Türkiye
+2023-10-07,109,Koltuk,Ev & Yaşam,9937,6,59622,M8,İstanbul,Türkiye
+2023-10-08,105,Pantolon,Giyim,525,5,2625,M40,Ankara,Türkiye
+2023-10-08,107,Kitap,Kitap,127,5,635,M34,İzmir,Türkiye
+2023-10-08,103,Tablet,Elektronik,6749,5,33745,M54,Antalya,Türkiye
+2023-10-09,106,Kaban,Giyim,1397,6,8382,M13,İzmir,Türkiye
+2023-10-09,101,Laptop,Elektronik,29908,7,209356,M3,Ankara,Türkiye
+2023-10-10,110,Televizyon,Elektronik,6641,10,66410,M7,Bursa,Türkiye
+2023-10-11,102,Telefon,Elektronik,11408,2,22816,M15,Antalya,Türkiye
+2023-10-12,106,Kaban,Giyim,1069,6,6414,M78,Antalya,Türkiye
+2023-10-12,102,Telefon,Elektronik,10789,9,97101,M43,İstanbul,Türkiye
+2023-10-13,101,Laptop,Elektronik,12432,9,111888,M92,Ankara,Türkiye
+2023-10-13,109,Koltuk,Ev & Yaşam,9808,7,68656,M81,Bursa,Türkiye
+2023-10-13,103,Tablet,Elektronik,8974,3,26922,M34,İstanbul,Türkiye
+2023-10-13,110,Televizyon,Elektronik,16415,7,114905,M5,İstanbul,Türkiye
+2023-10-13,104,T-Shirt,Giyim,195,4,780,M23,İzmir,Türkiye
+2023-10-13,104,T-Shirt,Giyim,197,7,1379,M90,Ankara,Türkiye
+2023-10-14,103,Tablet,Elektronik,12268,7,85876,M55,Ankara,Türkiye
+2023-10-14,105,Pantolon,Giyim,929,4,3716,M59,İstanbul,Türkiye
+2023-10-14,107,Kitap,Kitap,246,2,492,M4,Ankara,Türkiye
+2023-10-15,110,Televizyon,Elektronik,11947,8,95576,M20,Ankara,Türkiye
+2023-10-15,106,Kaban,Giyim,1136,8,9088,M60,Antalya,Türkiye
+2023-10-16,104,T-Shirt,Giyim,122,7,854,M30,Bursa,Türkiye
+2023-10-16,108,Çalışma Masası,Ev & Yaşam,3761,4,15044,M33,İzmir,Türkiye
+2023-10-17,110,Televizyon,Elektronik,15322,7,107254,M48,İstanbul,Türkiye
+2023-10-18,102,Telefon,Elektronik,11330,4,45320,M15,İzmir,Türkiye
+2023-10-18,109,Koltuk,Ev & Yaşam,3047,10,30470,M47,Ankara,Türkiye
+2023-10-18,106,Kaban,Giyim,785,2,1570,M18,İzmir,Türkiye
+2023-10-19,103,Tablet,Elektronik,3171,8,25368,M95,İstanbul,Türkiye
+2023-10-19,102,Telefon,Elektronik,17313,3,51939,M91,Bursa,Türkiye
+2023-10-19,104,T-Shirt,Giyim,234,6,1404,M99,Bursa,Türkiye
+2023-10-19,110,Televizyon,Elektronik,15441,10,154410,M92,Antalya,Türkiye
+2023-10-19,101,Laptop,Elektronik,22149,7,155043,M75,Bursa,Türkiye
+2023-10-19,101,Laptop,Elektronik,8527,6,51162,M67,Ankara,Türkiye
+2023-10-19,109,Koltuk,Ev & Yaşam,7828,6,46968,M5,İstanbul,Türkiye
+2023-10-20,110,Televizyon,Elektronik,11105,6,66630,M34,Ankara,Türkiye
+2023-10-20,107,Kitap,Kitap,470,4,1880,M75,Ankara,Türkiye
+2023-10-20,101,Laptop,Elektronik,21859,9,196731,M31,İzmir,Türkiye
+2023-10-20,108,Çalışma Masası,Ev & Yaşam,4161,4,16644,M31,Bursa,Türkiye
+2023-10-20,108,Çalışma Masası,Ev & Yaşam,3603,1,3603,M76,Bursa,Türkiye
+2023-10-20,106,Kaban,Giyim,1893,5,9465,M16,Ankara,Türkiye
+2023-10-21,101,Laptop,Elektronik,15677,1,15677,M65,İstanbul,Türkiye
+2023-10-21,107,Kitap,Kitap,219,4,876,M10,Antalya,Türkiye
+2023-10-21,103,Tablet,Elektronik,5236,10,52360,M62,İzmir,Türkiye
+2023-10-22,104,T-Shirt,Giyim,414,1,414,M74,İzmir,Türkiye
+2023-10-22,102,Telefon,Elektronik,9546,10,95460,M72,Bursa,Türkiye
+2023-10-22,102,Telefon,Elektronik,10231,4,40924,M17,Antalya,Türkiye
+2023-10-22,108,Çalışma Masası,Ev & Yaşam,3030,1,3030,M88,İstanbul,Türkiye
+2023-10-22,108,Çalışma Masası,Ev & Yaşam,3180,4,12720,M67,Bursa,Türkiye
+2023-10-23,110,Televizyon,Elektronik,7545,8,60360,M99,İzmir,Türkiye
+2023-10-23,108,Çalışma Masası,Ev & Yaşam,3153,10,31530,M22,İzmir,Türkiye
+2023-10-23,103,Tablet,Elektronik,11662,8,93296,M62,İzmir,Türkiye
+2023-10-23,103,Tablet,Elektronik,7279,7,50953,M70,Bursa,Türkiye
+2023-10-23,107,Kitap,Kitap,71,4,284,M81,Bursa,Türkiye
+2023-10-24,104,T-Shirt,Giyim,180,6,1080,M4,Antalya,Türkiye
+2023-10-24,106,Kaban,Giyim,2249,9,20241,M89,İzmir,Türkiye
+2023-10-24,103,Tablet,Elektronik,10764,9,96876,M39,Ankara,Türkiye
+2023-10-25,110,Televizyon,Elektronik,16029,6,96174,M11,Bursa,Türkiye
+2023-10-25,105,Pantolon,Giyim,567,10,5670,M17,Ankara,Türkiye
+2023-10-26,106,Kaban,Giyim,2691,4,10764,M55,İstanbul,Türkiye
+2023-10-26,109,Koltuk,Ev & Yaşam,8278,6,49668,M1,Bursa,Türkiye
+2023-10-26,106,Kaban,Giyim,1396,3,4188,M44,Antalya,Türkiye
+2023-10-27,105,Pantolon,Giyim,885,8,7080,M64,İzmir,Türkiye
+2023-10-28,102,Telefon,Elektronik,12889,4,51556,M86,Bursa,Türkiye
+2023-10-28,103,Tablet,Elektronik,13680,6,82080,M56,Ankara,Türkiye
+2023-10-28,102,Telefon,Elektronik,8569,4,34276,M70,Ankara,Türkiye
+2023-10-28,107,Kitap,Kitap,259,10,2590,M77,İstanbul,Türkiye
+2023-10-29,104,T-Shirt,Giyim,386,10,3860,M99,Ankara,Türkiye
+2023-10-30,103,Tablet,Elektronik,12975,9,116775,M54,Antalya,Türkiye
+2023-10-31,102,Telefon,Elektronik,14917,6,89502,M39,İstanbul,Türkiye
+2023-10-31,107,Kitap,Kitap,467,8,3736,M65,Antalya,Türkiye
+2023-10-31,108,Çalışma Masası,Ev & Yaşam,2101,5,10505,M40,Bursa,Türkiye
+2023-10-31,104,T-Shirt,Giyim,112,4,448,M12,İstanbul,Türkiye
+2023-10-31,101,Laptop,Elektronik,14169,7,99183,M10,Ankara,Türkiye
+2023-11-01,107,Kitap,Kitap,72,6,432,M6,İzmir,Türkiye
+2023-11-01,108,Çalışma Masası,Ev & Yaşam,2393,5,11965,M84,Antalya,Türkiye
+2023-11-01,108,Çalışma Masası,Ev & Yaşam,2675,5,13375,M34,Ankara,Türkiye
+2023-11-01,106,Kaban,Giyim,1530,7,10710,M46,Ankara,Türkiye
+2023-11-02,105,Pantolon,Giyim,380,7,2660,M85,Bursa,Türkiye
+2023-11-02,103,Tablet,Elektronik,6733,5,33665,M48,İzmir,Türkiye
+2023-11-03,108,Çalışma Masası,Ev & Yaşam,1493,10,14930,M30,Ankara,Türkiye
+2023-11-03,103,Tablet,Elektronik,4813,9,43317,M13,Ankara,Türkiye
+2023-11-04,109,Koltuk,Ev & Yaşam,4535,9,40815,M60,İzmir,Türkiye
+2023-11-04,101,Laptop,Elektronik,14758,3,44274,M52,İzmir,Türkiye
+2023-11-04,107,Kitap,Kitap,101,10,1010,M30,Bursa,Türkiye
+2023-11-05,106,Kaban,Giyim,2000,10,20000,M37,İzmir,Türkiye
+2023-11-06,103,Tablet,Elektronik,9347,10,93470,M38,Ankara,Türkiye
+2023-11-06,106,Kaban,Giyim,1771,4,7084,M1,İstanbul,Türkiye
+2023-11-07,104,T-Shirt,Giyim,255,3,765,M99,Ankara,Türkiye
+2023-11-07,105,Pantolon,Giyim,821,3,2463,M86,İzmir,Türkiye
+2023-11-07,110,Televizyon,Elektronik,11936,2,23872,M71,Ankara,Türkiye
+2023-11-07,107,Kitap,Kitap,291,7,2037,M8,Ankara,Türkiye
+2023-11-07,110,Televizyon,Elektronik,23361,1,23361,M84,Bursa,Türkiye
+2023-11-07,107,Kitap,Kitap,238,2,476,M18,Antalya,Türkiye
+2023-11-08,106,Kaban,Giyim,2130,4,8520,M26,İstanbul,Türkiye
+2023-11-08,106,Kaban,Giyim,1530,3,4590,M4,Ankara,Türkiye
+2023-11-08,105,Pantolon,Giyim,507,3,1521,M35,İstanbul,Türkiye
+2023-11-09,102,Telefon,Elektronik,13422,5,67110,M22,İstanbul,Türkiye
+2023-11-09,102,Telefon,Elektronik,11083,4,44332,M84,Ankara,Türkiye
+2023-11-09,104,T-Shirt,Giyim,245,9,2205,M47,Antalya,Türkiye
+2023-11-09,106,Kaban,Giyim,2294,1,2294,M13,Antalya,Türkiye
+2023-11-10,101,Laptop,Elektronik,27218,5,136090,M56,İzmir,Türkiye
+2023-11-10,107,Kitap,Kitap,269,10,2690,M81,İzmir,Türkiye
+2023-11-10,104,T-Shirt,Giyim,350,8,2800,M48,Ankara,Türkiye
+2023-11-10,105,Pantolon,Giyim,903,6,5418,M32,Antalya,Türkiye
+2023-11-11,109,Koltuk,Ev & Yaşam,5084,1,5084,M52,İstanbul,Türkiye
+2023-11-11,105,Pantolon,Giyim,647,1,647,M3,Antalya,Türkiye
+2023-11-12,108,Çalışma Masası,Ev & Yaşam,2266,1,2266,M83,İstanbul,Türkiye
+2023-11-12,108,Çalışma Masası,Ev & Yaşam,1456,3,4368,M27,İzmir,Türkiye
+2023-11-12,105,Pantolon,Giyim,459,3,1377,M4,İzmir,Türkiye
+2023-11-12,101,Laptop,Elektronik,15622,5,78110,M31,Antalya,Türkiye
+2023-11-12,103,Tablet,Elektronik,5107,1,5107,M45,Bursa,Türkiye
+2023-11-13,105,Pantolon,Giyim,737,9,6633,M4,Ankara,Türkiye
+2023-11-13,105,Pantolon,Giyim,627,5,3135,M16,İstanbul,Türkiye
+2023-11-13,108,Çalışma Masası,Ev & Yaşam,1973,3,5919,M31,Ankara,Türkiye
+2023-11-13,105,Pantolon,Giyim,904,6,5424,M84,Ankara,Türkiye
+2023-11-13,106,Kaban,Giyim,717,9,6453,M4,İstanbul,Türkiye
+2023-11-13,104,T-Shirt,Giyim,296,10,2960,M53,İstanbul,Türkiye
+2023-11-14,103,Tablet,Elektronik,13434,9,120906,M58,İzmir,Türkiye
+2023-11-15,105,Pantolon,Giyim,514,10,5140,M41,İstanbul,Türkiye
+2023-11-16,107,Kitap,Kitap,175,2,350,M27,Ankara,Türkiye
+2023-11-16,104,T-Shirt,Giyim,122,5,610,M74,İstanbul,Türkiye
+2023-11-16,109,Koltuk,Ev & Yaşam,6927,2,13854,M58,İstanbul,Türkiye
+2023-11-16,109,Koltuk,Ev & Yaşam,1260,8,10080,M39,Ankara,Türkiye
+2023-11-17,109,Koltuk,Ev & Yaşam,3046,2,6092,M53,Ankara,Türkiye
+2023-11-17,101,Laptop,Elektronik,14499,3,43497,M71,İzmir,Türkiye
+2023-11-18,110,Televizyon,Elektronik,14010,9,126090,M37,İzmir,Türkiye
+2023-11-19,107,Kitap,Kitap,298,1,298,M85,Antalya,Türkiye
+2023-11-19,103,Tablet,Elektronik,10541,1,10541,M47,İzmir,Türkiye
+2023-11-19,101,Laptop,Elektronik,8912,6,53472,M98,İzmir,Türkiye
+2023-11-19,107,Kitap,Kitap,201,6,1206,M69,Antalya,Türkiye
+2023-11-20,101,Laptop,Elektronik,16630,9,149670,M96,İstanbul,Türkiye
+2023-11-20,103,Tablet,Elektronik,5868,9,52812,M15,Ankara,Türkiye
+2023-11-20,104,T-Shirt,Giyim,249,10,2490,M78,Antalya,Türkiye
+2023-11-21,101,Laptop,Elektronik,16948,9,152532,M46,Bursa,Türkiye
+2023-11-21,105,Pantolon,Giyim,456,5,2280,M68,İzmir,Türkiye
+2023-11-21,105,Pantolon,Giyim,519,5,2595,M49,İstanbul,Türkiye
+2023-11-23,106,Kaban,Giyim,576,2,1152,M59,Antalya,Türkiye
+2023-11-23,101,Laptop,Elektronik,18835,6,113010,M72,İzmir,Türkiye
+2023-11-23,103,Tablet,Elektronik,14524,8,116192,M75,İstanbul,Türkiye
+2023-11-24,105,Pantolon,Giyim,553,1,553,M50,İzmir,Türkiye
+2023-11-24,104,T-Shirt,Giyim,295,9,2655,M25,Antalya,Türkiye
+2023-11-24,102,Telefon,Elektronik,12154,7,85078,M73,Bursa,Türkiye
+2023-11-25,107,Kitap,Kitap,216,5,1080,M19,İstanbul,Türkiye
+2023-11-25,109,Koltuk,Ev & Yaşam,9898,3,29694,M51,Bursa,Türkiye
+2023-11-25,110,Televizyon,Elektronik,5588,5,27940,M83,Antalya,Türkiye
+2023-11-26,107,Kitap,Kitap,129,6,774,M54,Antalya,Türkiye
+2023-11-26,107,Kitap,Kitap,280,8,2240,M95,İzmir,Türkiye
+2023-11-26,103,Tablet,Elektronik,13093,6,78558,M12,Antalya,Türkiye
+2023-11-27,103,Tablet,Elektronik,12402,9,111618,M46,Bursa,Türkiye
+2023-11-27,102,Telefon,Elektronik,12613,4,50452,M62,İstanbul,Türkiye
+2023-11-28,105,Pantolon,Giyim,996,9,8964,M79,Antalya,Türkiye
+2023-11-28,104,T-Shirt,Giyim,461,8,3688,M93,İstanbul,Türkiye
+2023-11-29,107,Kitap,Kitap,162,6,972,M76,Bursa,Türkiye
+2023-11-29,102,Telefon,Elektronik,7472,9,67248,M4,Ankara,Türkiye
+2023-11-29,103,Tablet,Elektronik,6161,2,12322,M57,Antalya,Türkiye
+2023-11-29,106,Kaban,Giyim,1671,9,15039,M75,İstanbul,Türkiye
+2023-11-30,102,Telefon,Elektronik,12634,10,126340,M62,İzmir,Türkiye
+2023-12-01,101,Laptop,Elektronik,9203,2,18406,M79,Ankara,Türkiye
+2023-12-01,109,Koltuk,Ev & Yaşam,3465,1,3465,M29,İzmir,Türkiye
+2023-12-01,104,T-Shirt,Giyim,122,9,1098,M41,Ankara,Türkiye
+2023-12-01,110,Televizyon,Elektronik,9042,3,27126,M1,İzmir,Türkiye
+2023-12-02,105,Pantolon,Giyim,909,6,5454,M39,Antalya,Türkiye
+2023-12-02,101,Laptop,Elektronik,20997,7,146979,M11,İzmir,Türkiye
+2023-12-03,104,T-Shirt,Giyim,181,7,1267,M68,Antalya,Türkiye
+2023-12-03,102,Telefon,Elektronik,5186,3,15558,M99,İstanbul,Türkiye
+2023-12-03,106,Kaban,Giyim,2585,6,15510,M72,İstanbul,Türkiye
+2023-12-03,104,T-Shirt,Giyim,379,2,758,M52,Ankara,Türkiye
+2023-12-03,110,Televizyon,Elektronik,8320,4,33280,M17,Ankara,Türkiye
+2023-12-03,110,Televizyon,Elektronik,10359,8,82872,M87,Ankara,Türkiye
+2023-12-03,103,Tablet,Elektronik,8216,4,32864,M29,İstanbul,Türkiye
+2023-12-04,101,Laptop,Elektronik,22297,7,156079,M97,İstanbul,Türkiye
+2023-12-04,105,Pantolon,Giyim,754,3,2262,M32,Bursa,Türkiye
+2023-12-04,106,Kaban,Giyim,813,5,4065,M23,Ankara,Türkiye
+2023-12-04,101,Laptop,Elektronik,21860,9,196740,M70,İstanbul,Türkiye
+2023-12-05,108,Çalışma Masası,Ev & Yaşam,4212,8,33696,M80,İstanbul,Türkiye
+2023-12-05,110,Televizyon,Elektronik,15978,4,63912,M9,Antalya,Türkiye
+2023-12-05,108,Çalışma Masası,Ev & Yaşam,4307,10,43070,M32,İzmir,Türkiye
+2023-12-05,106,Kaban,Giyim,1354,3,4062,M35,Ankara,Türkiye
+2023-12-06,102,Telefon,Elektronik,14587,7,102109,M26,Antalya,Türkiye
+2023-12-06,103,Tablet,Elektronik,4118,4,16472,M93,Bursa,Türkiye
+2023-12-06,105,Pantolon,Giyim,539,1,539,M39,Ankara,Türkiye
+2023-12-06,110,Televizyon,Elektronik,22202,7,155414,M12,İzmir,Türkiye
+2023-12-06,102,Telefon,Elektronik,13891,6,83346,M47,Antalya,Türkiye
+2023-12-06,105,Pantolon,Giyim,242,7,1694,M40,İzmir,Türkiye
+2023-12-07,107,Kitap,Kitap,415,5,2075,M61,İzmir,Türkiye
+2023-12-07,108,Çalışma Masası,Ev & Yaşam,1040,9,9360,M80,Bursa,Türkiye
+2023-12-07,109,Koltuk,Ev & Yaşam,3470,9,31230,M71,İzmir,Türkiye
+2023-12-08,101,Laptop,Elektronik,10623,4,42492,M89,Antalya,Türkiye
+2023-12-08,101,Laptop,Elektronik,27689,4,110756,M3,Antalya,Türkiye
+2023-12-08,102,Telefon,Elektronik,5180,2,10360,M9,Antalya,Türkiye
+2023-12-09,102,Telefon,Elektronik,17806,7,124642,M59,Antalya,Türkiye
+2023-12-09,106,Kaban,Giyim,1901,1,1901,M12,Ankara,Türkiye
+2023-12-09,101,Laptop,Elektronik,20300,8,162400,M21,İzmir,Türkiye
+2023-12-09,108,Çalışma Masası,Ev & Yaşam,2663,4,10652,M8,İstanbul,Türkiye
+2023-12-10,107,Kitap,Kitap,288,6,1728,M66,Ankara,Türkiye
+2023-12-10,106,Kaban,Giyim,1722,7,12054,M25,İzmir,Türkiye
+2023-12-10,101,Laptop,Elektronik,22118,8,176944,M33,İzmir,Türkiye
+2023-12-10,105,Pantolon,Giyim,587,2,1174,M62,Antalya,Türkiye
+2023-12-10,102,Telefon,Elektronik,14464,3,43392,M68,İzmir,Türkiye
+2023-12-10,106,Kaban,Giyim,1777,4,7108,M7,İzmir,Türkiye
+2023-12-11,107,Kitap,Kitap,241,6,1446,M97,Bursa,Türkiye
+2023-12-11,103,Tablet,Elektronik,12803,7,89621,M76,Bursa,Türkiye
+2023-12-11,109,Koltuk,Ev & Yaşam,5022,6,30132,M38,Bursa,Türkiye
+2023-12-12,103,Tablet,Elektronik,9853,1,9853,M98,İstanbul,Türkiye
+2023-12-12,104,T-Shirt,Giyim,196,9,1764,M6,Bursa,Türkiye
+2023-12-12,104,T-Shirt,Giyim,227,1,227,M40,İzmir,Türkiye
+2023-12-13,105,Pantolon,Giyim,946,10,9460,M73,İstanbul,Türkiye
+2023-12-13,106,Kaban,Giyim,1580,2,3160,M2,Antalya,Türkiye
+2023-12-13,110,Televizyon,Elektronik,9013,4,36052,M27,Ankara,Türkiye
+2023-12-13,108,Çalışma Masası,Ev & Yaşam,3428,5,17140,M48,Bursa,Türkiye
+2023-12-13,106,Kaban,Giyim,1840,7,12880,M78,Bursa,Türkiye
+2023-12-13,103,Tablet,Elektronik,11358,6,68148,M78,Ankara,Türkiye
+2023-12-13,107,Kitap,Kitap,291,2,582,M27,İzmir,Türkiye
+2023-12-14,109,Koltuk,Ev & Yaşam,1688,1,1688,M81,İstanbul,Türkiye
+2023-12-15,103,Tablet,Elektronik,11015,7,77105,M27,Bursa,Türkiye
+2023-12-15,106,Kaban,Giyim,1759,7,12313,M14,İzmir,Türkiye
+2023-12-15,108,Çalışma Masası,Ev & Yaşam,1832,5,9160,M29,Ankara,Türkiye
+2023-12-16,104,T-Shirt,Giyim,179,9,1611,M50,Bursa,Türkiye
+2023-12-16,103,Tablet,Elektronik,9292,6,55752,M53,Antalya,Türkiye
+2023-12-16,104,T-Shirt,Giyim,111,5,555,M37,Ankara,Türkiye
+2023-12-16,109,Koltuk,Ev & Yaşam,3796,6,22776,M94,İzmir,Türkiye
+2023-12-16,109,Koltuk,Ev & Yaşam,3062,5,15310,M36,İstanbul,Türkiye
+2023-12-17,102,Telefon,Elektronik,11579,5,57895,M73,Ankara,Türkiye
+2023-12-17,101,Laptop,Elektronik,26477,7,185339,M37,Bursa,Türkiye
+2023-12-18,109,Koltuk,Ev & Yaşam,4663,3,13989,M33,Ankara,Türkiye
+2023-12-18,103,Tablet,Elektronik,13799,9,124191,M81,İstanbul,Türkiye
+2023-12-19,106,Kaban,Giyim,2689,10,26890,M79,Antalya,Türkiye
+2023-12-19,108,Çalışma Masası,Ev & Yaşam,4752,1,4752,M96,Antalya,Türkiye
+2023-12-20,102,Telefon,Elektronik,11295,2,22590,M39,Antalya,Türkiye
+2023-12-20,105,Pantolon,Giyim,832,1,832,M69,Bursa,Türkiye
+2023-12-20,107,Kitap,Kitap,130,10,1300,M21,Bursa,Türkiye
+2023-12-21,110,Televizyon,Elektronik,24918,4,99672,M3,Bursa,Türkiye
+2023-12-21,105,Pantolon,Giyim,262,8,2096,M53,İstanbul,Türkiye
+2023-12-21,103,Tablet,Elektronik,4929,1,4929,M14,İstanbul,Türkiye
+2023-12-22,103,Tablet,Elektronik,13369,4,53476,M72,İzmir,Türkiye
+2023-12-22,104,T-Shirt,Giyim,141,7,987,M97,Antalya,Türkiye
+2023-12-22,107,Kitap,Kitap,377,6,2262,M68,İstanbul,Türkiye
+2023-12-24,102,Telefon,Elektronik,11536,9,103824,M18,İzmir,Türkiye
+2023-12-24,104,T-Shirt,Giyim,397,6,2382,M13,Bursa,Türkiye
+2023-12-24,102,Telefon,Elektronik,10620,3,31860,M14,İzmir,Türkiye
+2023-12-24,104,T-Shirt,Giyim,186,8,1488,M54,Antalya,Türkiye
+2023-12-24,107,Kitap,Kitap,53,2,106,M7,İzmir,Türkiye
+2023-12-25,109,Koltuk,Ev & Yaşam,1735,1,1735,M93,İzmir,Türkiye
+2023-12-25,106,Kaban,Giyim,533,5,2665,M65,Ankara,Türkiye
+2023-12-26,105,Pantolon,Giyim,441,8,3528,M79,İstanbul,Türkiye
+2023-12-27,108,Çalışma Masası,Ev & Yaşam,1855,4,7420,M99,Bursa,Türkiye
+2023-12-28,102,Telefon,Elektronik,13781,9,124029,M81,Antalya,Türkiye
+2023-12-28,110,Televizyon,Elektronik,8613,5,43065,M28,Bursa,Türkiye
+2023-12-28,104,T-Shirt,Giyim,101,6,606,M63,İzmir,Türkiye
+2023-12-28,104,T-Shirt,Giyim,288,10,2880,M18,Bursa,Türkiye
+2023-12-30,105,Pantolon,Giyim,706,10,7060,M42,Bursa,Türkiye
